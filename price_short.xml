@@ -28,6 +28,7 @@
                 <picture>https://images.ua.prom.st/AURpf9m9EQbxO_Zf25KPRU0nVsq8qSHN-lTzLiZyyYc=/1870112785_podves-iz-serebra.jpg</picture>
                 <name>Вазон тестовый</name>
                 <name_ua>вазон тестовий</name_ua>
+				<name_en>name vazon test</name_en>
                 <vendor>HP</vendor>
                 <article></article>
                 <description></description>
@@ -60,6 +61,9 @@
                 <description_ua>
                     <![CDATA[<p>Тестовое описание тестового товара</p>]]>
                 </description_ua>
+				<description_en>
+                    <![CDATA[<p>test field</p>]]>
+                </description_en>
                 <param name="Объем, л" paramid="245163" valueid="3925778">3.1 - 5</param>
             </offer>
             <offer id="49453191" available="true">
@@ -571,4 +575,5 @@
             </offer>
         </offers>
     </shop>
+
 </yml_catalog>
