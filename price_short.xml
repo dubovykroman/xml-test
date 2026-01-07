@@ -42,7 +42,6 @@
                 <param name="Страна регистрации бренда" paramid="87790" valueid="428992">Китай</param>
                 <param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
                 <param name="Тип" paramid="42894" valueid="815636">Сенсор для растений</param>
-                <param name="Форма" paramid="119871" valueid="816168">Овал</param>
                 <param name="Цвет" paramid="26300" valueid="23055">Белый</param>
             </offer>
             <offer id="2" available="false">
@@ -577,3 +576,4 @@
     </shop>
 
 </yml_catalog>
+
