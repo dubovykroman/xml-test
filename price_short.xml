@@ -1,878 +1,2310 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2024-12-02 17:25">
-    <shop>
-        <name>Marketplace ROZETKA.UA</name>
-        <company>Marketplace ROZETKA.UA</company>
-        <currencies>
-            <currency id="UAH" rate="1.00" />
-            <currency id="USD" rate="37.00" />
-            <currency id="EUR" rate="38.00" />
-        </currencies>
-        <categories>
-            <category id="4625337">POS-монітори</category>
-            <category id="4625319">POS-принтери</category>
-            <category id="4625325">POS-термінали</category>
-            <category id="80086">Блоки живлення</category>
-            <category id="245547">Вазони</category>
-            <category id="4658240">Гель-лак</category>
-            <category id="4637439">Жіночі шкарпетки</category>
-            <category id="4625274">Сканери штрих-кодів</category>
-        </categories>
-        <offers>
-           {
-    "count": 61,
-    "items": [
-        {
-            "id": 160365651,
-            "sync_source_id": 43483,
-            "name": "Наліпки для найменш. Їжачок + Кошеня + Машинка",
-            "rz_status": 0,
-            "price": 1000000,
-            "rz_item_id": 570886807,
-            "rz_sell_status": 6,
-            "price_offer_id": "570886807",
-            "price_old": 2000000,
-            "price_promo": 500000,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": 10000,
-            "min_cart_quantity": 10000,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 9,
-            "available": 1,
-            "vendor": null,
-            "sync_source_category_id": 6331500,
-            "sync_source_vendors_id": null,
-            "price_category_id": "4632124",
-            "sla_id": 122253,
-            "stock_quantity": 1000000,
-            "rz_created_date": "2026-01-21 11:30:32",
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": "",
-            "state": 1,
-            "sync_source_series_id": null,
-            "picture_upload_status": 1,
-            "docket": null,
-            "category": {
-                "id": 4632124,
-                "title": "Наклейки, стикеры, тату",
-                "title_ua": "Наклейки, стикери, тату",
-                "min_price": null,
-                "max_price": null
-            },
-            "producer": null,
-            "series": null,
-            "itemUa": {
-                "item_id": 160365651,
-                "name": "Наліпки для найменш. Їжачок + Кошеня + Машинка",
-                "docket": ""
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [
-                {
-                    "item_id": 160365651,
-                    "reason_id": 151
-                }
-            ],
-            "prices": [],
-            "name_ua": "Наліпки для найменш. Їжачок + Кошеня + Машинка",
-            "sync_source_vendor": null,
-            "sync_source_series": null,
-            "price_category": {
-                "id": "4632124",
-                "title": "Наклейки, стикери, тат"
-            },
-            "article": "",
-            "bpm_number": [
-                3775638,
-                3796297
-            ],
-            "stop_words": []
-        },
-        {
-            "id": 160365584,
-            "sync_source_id": 43483,
-            "name": "Наліпки для найменш. Їжачок + Кошеня + Машинка32",
-            "rz_status": 3,
-            "price": 20,
-            "rz_item_id": 570880321,
-            "rz_sell_status": 6,
-            "price_offer_id": "570880321",
-            "price_old": 130,
-            "price_promo": 90,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": null,
-            "min_cart_quantity": null,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 1,
-            "available": 1,
-            "vendor": null,
-            "sync_source_category_id": 6331500,
-            "sync_source_vendors_id": null,
-            "price_category_id": "4632124",
-            "sla_id": 122253,
-            "stock_quantity": 96,
-            "rz_created_date": "2026-01-21 11:17:55",
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": "",
-            "state": 1,
-            "sync_source_series_id": null,
-            "picture_upload_status": 1,
-            "docket": null,
-            "category": {
-                "id": 4632124,
-                "title": "Наклейки, стикеры, тату",
-                "title_ua": "Наклейки, стикери, тату",
-                "min_price": null,
-                "max_price": null
-            },
-            "producer": null,
-            "series": null,
-            "itemUa": {
-                "item_id": 160365584,
-                "name": "Наліпки для найменш. Їжачок + Кошеня + Машинка12",
-                "docket": ""
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [
-                {
-                    "item_id": 160365584,
-                    "reason_id": 113
-                }
-            ],
-            "prices": [],
-            "name_ua": "Наліпки для найменш. Їжачок + Кошеня + Машинка12",
-            "sync_source_vendor": null,
-            "sync_source_series": null,
-            "price_category": {
-                "id": "4632124",
-                "title": "Наклейки, стикери, тат"
-            },
-            "article": "",
-            "bpm_number": [
-                3775638
-            ],
-            "stop_words": []
-        },
-        {
-            "id": 160365011,
-            "sync_source_id": 43483,
-            "name": "Мобільний телефон Apple iPhone 17 Pro Max 256GB12",
-            "rz_status": null,
-            "price": 70000,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "auto_697088884fb41",
-            "price_old": 75000,
-            "price_promo": 69500,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": 10,
-            "min_cart_quantity": 1,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 1,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 0,
-            "available": 1,
-            "vendor": "Apple",
-            "sync_source_category_id": 5851208,
-            "sync_source_vendors_id": 19588945,
-            "price_category_id": "80003",
-            "sla_id": 40,
-            "stock_quantity": 10,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": 1402701,
-            "picture_upload_status": 0,
-            "docket": null,
-            "category": {
-                "id": 80003,
-                "title": "Мобильные телефоны",
-                "title_ua": "Мобільні телефони",
-                "min_price": 50,
-                "max_price": 399999
-            },
-            "producer": {
-                "id": 69,
-                "title": "Apple"
-            },
-            "series": {
-                "id": 312124,
-                "title": "iPhone 17 Pro Max"
-            },
-            "itemUa": {
-                "item_id": 160365011,
-                "name": "Мобільний телефон Apple iPhone 17 Pro Max 256GB12",
-                "docket": null
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "Мобільний телефон Apple iPhone 17 Pro Max 256GB12",
-            "sync_source_vendor": {
-                "id": 19588945,
-                "title": "Apple",
-                "is_binded": 1,
-                "bind_type": 1
-            },
-            "sync_source_series": "iPhone 17 Pro Max",
-            "price_category": {
-                "id": "80003",
-                "title": "Мобильные телефоны"
-            },
-            "article": "",
-            "bpm_number": [],
-            "stop_words": []
-        },
-        {
-            "id": 160336339,
-            "sync_source_id": 43483,
-            "name": "Мобільний телефон Apple iPhone 17 Pro Max 256GB Cosmic Orange",
-            "rz_status": null,
-            "price": 70000,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "auto_696f8d94ba22f",
-            "price_old": 75000,
-            "price_promo": 69500,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": 10,
-            "min_cart_quantity": 1,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 1,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 0,
-            "available": 1,
-            "vendor": "Apple",
-            "sync_source_category_id": 5851208,
-            "sync_source_vendors_id": 19588945,
-            "price_category_id": "80003",
-            "sla_id": 40,
-            "stock_quantity": 10,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": 1402701,
-            "picture_upload_status": 0,
-            "docket": null,
-            "category": {
-                "id": 80003,
-                "title": "Мобильные телефоны",
-                "title_ua": "Мобільні телефони",
-                "min_price": 50,
-                "max_price": 399999
-            },
-            "producer": {
-                "id": 69,
-                "title": "Apple"
-            },
-            "series": {
-                "id": 312124,
-                "title": "iPhone 17 Pro Max"
-            },
-            "itemUa": {
-                "item_id": 160336339,
-                "name": "Мобільний телефон Apple iPhone 17 Pro Max 256GB Cosmic Orange",
-                "docket": null
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "Мобільний телефон Apple iPhone 17 Pro Max 256GB Cosmic Orange",
-            "sync_source_vendor": {
-                "id": 19588945,
-                "title": "Apple",
-                "is_binded": 1,
-                "bind_type": 1
-            },
-            "sync_source_series": "iPhone 17 Pro Max",
-            "price_category": {
-                "id": "80003",
-                "title": "Мобильные телефоны"
-            },
-            "article": "",
-            "bpm_number": [],
-            "stop_words": []
-        },
-        {
-            "id": 160275827,
-            "sync_source_id": 43483,
-            "name": "тест (COPY)",
-            "rz_status": null,
-            "price": 12,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "auto_696f6d6ec1372",
-            "price_old": null,
-            "price_promo": null,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": null,
-            "min_cart_quantity": null,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 0,
-            "available": 1,
-            "vendor": "LoveYouHome",
-            "sync_source_category_id": 5813770,
-            "sync_source_vendors_id": 19438579,
-            "price_category_id": "80001",
-            "sla_id": 40,
-            "stock_quantity": 12,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": null,
-            "picture_upload_status": 0,
-            "docket": null,
-            "category": {
-                "id": 80001,
-                "title": "Фотоаппараты",
-                "title_ua": "Фотоапарати",
-                "min_price": 50,
-                "max_price": 399999
-            },
-            "producer": {
-                "id": 685287,
-                "title": "LoveYouHome"
-            },
-            "series": null,
-            "itemUa": {
-                "item_id": 160275827,
-                "name": "тест (COPY)",
-                "docket": null
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "тест (COPY)",
-            "sync_source_vendor": {
-                "id": 19438579,
-                "title": "LoveYouHome",
-                "is_binded": 1,
-                "bind_type": 1
-            },
-            "sync_source_series": null,
-            "price_category": {
-                "id": "80001",
-                "title": "Фотоапарати"
-            },
-            "article": "876876",
-            "bpm_number": [],
-            "stop_words": []
-        },
-        {
-            "id": 160180663,
-            "sync_source_id": 43483,
-            "name": "Телефон",
-            "rz_status": null,
-            "price": 999,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "123123AF",
-            "price_old": 1200,
-            "price_promo": 777,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": 10,
-            "min_cart_quantity": 2,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 8,
-            "available": 1,
-            "vendor": "ASUS",
-            "sync_source_category_id": 5953459,
-            "sync_source_vendors_id": 19482603,
-            "price_category_id": "80007",
-            "sla_id": 40,
-            "stock_quantity": 10,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": 1401730,
-            "picture_upload_status": 0,
-            "docket": null,
-            "category": {
-                "id": 80007,
-                "title": "МФУ/Принтеры",
-                "title_ua": "БФП/Принтери",
-                "min_price": 50,
-                "max_price": 399999
-            },
-            "producer": {
-                "id": 4,
-                "title": "ASUS"
-            },
-            "series": null,
-            "itemUa": {
-                "item_id": 160180663,
-                "name": "Телефон",
-                "docket": null
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "Телефон",
-            "sync_source_vendor": {
-                "id": 19482603,
-                "title": "ASUS",
-                "is_binded": 1,
-                "bind_type": 1
-            },
-            "sync_source_series": "test",
-            "price_category": {
-                "id": "80007",
-                "title": "МФУ/Принтеры"
-            },
-            "article": "ERTY23423dg4",
-            "bpm_number": [
-                3775638
-            ],
-            "stop_words": []
-        },
-        {
-            "id": 159926472,
-            "sync_source_id": 43483,
-            "name": "тест",
-            "rz_status": null,
-            "price": 2,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "auto_696763b966099",
-            "price_old": null,
-            "price_promo": null,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": null,
-            "min_cart_quantity": null,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 0,
-            "available": 1,
-            "vendor": "LoveYouHome",
-            "sync_source_category_id": 5813770,
-            "sync_source_vendors_id": 19438579,
-            "price_category_id": "80001",
-            "sla_id": 40,
-            "stock_quantity": 34,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": null,
-            "picture_upload_status": 0,
-            "docket": null,
-            "category": {
-                "id": 80001,
-                "title": "Фотоаппараты",
-                "title_ua": "Фотоапарати",
-                "min_price": 50,
-                "max_price": 399999
-            },
-            "producer": {
-                "id": 685287,
-                "title": "LoveYouHome"
-            },
-            "series": null,
-            "itemUa": {
-                "item_id": 159926472,
-                "name": "тест",
-                "docket": null
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "тест",
-            "sync_source_vendor": {
-                "id": 19438579,
-                "title": "LoveYouHome",
-                "is_binded": 1,
-                "bind_type": 1
-            },
-            "sync_source_series": null,
-            "price_category": {
-                "id": "80001",
-                "title": "Фотоапарати"
-            },
-            "article": "7657657",
-            "bpm_number": [],
-            "stop_words": []
-        },
-        {
-            "id": 159324230,
-            "sync_source_id": 43483,
-            "name": "якась тестовар назва товару бо закінчились варіанти",
-            "rz_status": null,
-            "price": 129,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "43OT563",
-            "price_old": 135,
-            "price_promo": 100,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": null,
-            "min_cart_quantity": null,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 0,
-            "available": 1,
-            "vendor": "ще якийсь бренд",
-            "sync_source_category_id": 5919058,
-            "sync_source_vendors_id": 19577679,
-            "price_category_id": "85432",
-            "sla_id": 40,
-            "stock_quantity": 20,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": null,
-            "picture_upload_status": 0,
-            "docket": "дуже короткий",
-            "category": {
-                "id": 85432,
-                "title": "Фонари и аксессуары",
-                "title_ua": "Ліхтарі й аксесуари",
-                "min_price": 20,
-                "max_price": 399999
-            },
-            "producer": null,
-            "series": null,
-            "itemUa": {
-                "item_id": 159324230,
-                "name": "шось типу тесту адейту товару",
-                "docket": "дуже короткий"
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "шось типу тесту адейту товару",
-            "sync_source_vendor": {
-                "id": 19577679,
-                "title": "ще якийсь бренд",
-                "is_binded": 0,
-                "bind_type": 0
-            },
-            "sync_source_series": null,
-            "price_category": {
-                "id": "85432",
-                "title": "Ліхтарі й аксесуари"
-            },
-            "article": "43OT563",
-            "bpm_number": [],
-            "stop_words": []
-        },
-        {
-            "id": 159324229,
-            "sync_source_id": 43483,
-            "name": "Перевірка чи не випадуть в видалення прайсу після правки з апдейтом шось не так",
-            "rz_status": null,
-            "price": 122,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "12342LD",
-            "price_old": null,
-            "price_promo": null,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": null,
-            "min_cart_quantity": null,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 0,
-            "available": 1,
-            "vendor": "сумний бренд",
-            "sync_source_category_id": 5919058,
-            "sync_source_vendors_id": 19577680,
-            "price_category_id": "85432",
-            "sla_id": 40,
-            "stock_quantity": 15,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": null,
-            "picture_upload_status": 0,
-            "docket": "шорт дескріптіон",
-            "category": {
-                "id": 85432,
-                "title": "Фонари и аксессуары",
-                "title_ua": "Ліхтарі й аксесуари",
-                "min_price": 20,
-                "max_price": 399999
-            },
-            "producer": null,
-            "series": null,
-            "itemUa": {
-                "item_id": 159324229,
-                "name": "Перевірка чи не випадуть в видалення прайсу після правки з апдейтом шось не так",
-                "docket": "шорт дескріптіон"
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "Перевірка чи не випадуть в видалення прайсу після правки з апдейтом шось не так",
-            "sync_source_vendor": {
-                "id": 19577680,
-                "title": "сумний бренд",
-                "is_binded": 0,
-                "bind_type": 0
-            },
-            "sync_source_series": null,
-            "price_category": {
-                "id": "85432",
-                "title": "Ліхтарі й аксесуари"
-            },
-            "article": "12342LD",
-            "bpm_number": [],
-            "stop_words": []
-        },
-        {
-            "id": 159324228,
-            "sync_source_id": 43483,
-            "name": "якась тестовар назва товару при апдейті",
-            "rz_status": null,
-            "price": 125,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "63562OE",
-            "price_old": null,
-            "price_promo": null,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": null,
-            "min_cart_quantity": null,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 0,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 0,
-            "available": 1,
-            "vendor": "ще якийсь бренд",
-            "sync_source_category_id": 5919058,
-            "sync_source_vendors_id": 19577679,
-            "price_category_id": "85432",
-            "sla_id": 40,
-            "stock_quantity": 12,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": null,
-            "picture_upload_status": 0,
-            "docket": "не дуже короткий",
-            "category": {
-                "id": 85432,
-                "title": "Фонари и аксессуары",
-                "title_ua": "Ліхтарі й аксесуари",
-                "min_price": 20,
-                "max_price": 399999
-            },
-            "producer": null,
-            "series": null,
-            "itemUa": {
-                "item_id": 159324228,
-                "name": "якась тестовар назва товару",
-                "docket": "не дуже короткий"
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "якась тестовар назва товару",
-            "sync_source_vendor": {
-                "id": 19577679,
-                "title": "ще якийсь бренд",
-                "is_binded": 0,
-                "bind_type": 0
-            },
-            "sync_source_series": null,
-            "price_category": {
-                "id": "85432",
-                "title": "Ліхтарі й аксесуари"
-            },
-            "article": "63562OE",
-            "bpm_number": [],
-            "stop_words": []
-        },
-        {
-            "id": 159311109,
-            "sync_source_id": 43483,
-            "name": "Зарядная станция Bluetti AC300 + дополнительная батарея B300K2 / 3000 Вт / 2764.8 Вт⋅ч / LiFePO4 (3000W AC300+B300K2) (COPY)",
-            "rz_status": null,
-            "price": 10,
-            "rz_item_id": null,
-            "rz_sell_status": null,
-            "price_offer_id": "auto_695e20c218d5c",
-            "price_old": null,
-            "price_promo": null,
-            "promo_reason": null,
-            "is_promo_sent": 0,
-            "max_cart_quantity": null,
-            "min_cart_quantity": null,
-            "duplicate_mark": false,
-            "is_blocked_by_stop_brands": 0,
-            "is_blocked_by_stop_categories": 1,
-            "is_blocked_by_stop_words": 0,
-            "is_blocked_by_stop_attributes": 0,
-            "upload_status": 0,
-            "available": 1,
-            "vendor": "Bluetti",
-            "sync_source_category_id": 6273670,
-            "sync_source_vendors_id": 19564974,
-            "price_category_id": "4674585",
-            "sla_id": 40,
-            "stock_quantity": 10,
-            "rz_created_date": null,
-            "is_ff": false,
-            "rz_group_id": null,
-            "comment": null,
-            "state": 1,
-            "sync_source_series_id": null,
-            "picture_upload_status": 0,
-            "docket": null,
-            "category": {
-                "id": 4674585,
-                "title": "Зарядные станции",
-                "title_ua": "Зарядні станції",
-                "min_price": null,
-                "max_price": null
-            },
-            "producer": {
-                "id": 651178,
-                "title": "Bluetti"
-            },
-            "series": null,
-            "itemUa": {
-                "item_id": 159311109,
-                "name": "Зарядна станція Bluetti AC300 + додаткова батарея B300K2 / 3000 Вт / 2764.8 Вт⋅год / LiFePO4 (3000W AC300+B300K2) (COPY)",
-                "docket": null
-            },
-            "syncSource": {
-                "id": 43483,
-                "availability": 4,
-                "is_virtual_source": 3,
-                "new_flow_old_price": 0
-            },
-            "currentReasons": [],
-            "prices": [],
-            "name_ua": "Зарядна станція Bluetti AC300 + додаткова батарея B300K2 / 3000 Вт / 2764.8 Вт⋅год / LiFePO4 (3000W AC300+B300K2) (COPY)",
-            "sync_source_vendor": {
-                "id": 19564974,
-                "title": "Bluetti",
-                "is_binded": 1,
-                "bind_type": 1
-            },
-            "sync_source_series": null,
-            "price_category": {
-                "id": "4674585",
-                "title": "Зарядные станции"
-            },
-            "article": "3000W AC300+B300K2",
-            "bpm_number": [],
-            "stop_words": []
-        },
-    ],
-} 
-        </offers>
-    </shop>
-
+<yml_catalog date="2026-01-26 15:53:59">
+<shop>
+<name>Testing Market</name>
+<company>Testing Market</company>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="4634945" rz_id="4634945">Мужские бутсы</category>
+<category id="80004" rz_id="80004">Ноутбуки</category>
+<category id="80012" rz_id="80012">Проекторы</category>
+<category id="80016" rz_id="80016">MP3-плееры</category>
+<category id="1461212" rz_id="1461212">Корма для кошек</category>
+<category id="84018" rz_id="84018">Рации</category>
+<category id="4632124" rz_id="4632124">Наклейки, стикеры, тату</category>
+<category id="245547" rz_id="245547">Вазоны</category>
+<category id="4674585" rz_id="4674585">Зарядные станции</category>
+<category id="101746" rz_id="101746">Аксессуары для колясок и автокресел</category>
+<category id="4648314" rz_id="4648314">Дистилляторы</category>
+<category id="4625421" rz_id="4625421">Печи и каменки для сауны, бани</category>
+<category id="4625325" rz_id="4625325">POS-терминалы</category>
+<category id="4643976" rz_id="4643976">Автосканеры</category>
+<category id="4631707" rz_id="4631707">Мебельные крючки</category>
+<category id="4629129" rz_id="4629129">Массажные кресла</category>
+<category id="4631249" rz_id="4631249">Пылесосы для сухой уборки</category>
+<category id="4660433" rz_id="4660433">Триммеры</category>
+<category id="85432" rz_id="85432">Фонари и аксессуары</category>
+<category id="80001" rz_id="80001">Фотоаппараты</category>
+<category id="4626579" rz_id="4626579">Аксессуары для мангалов, барбекю, грилей</category>
+<category id="80007" rz_id="80007">МФУ/Принтеры</category>
+<category id="4634945" rz_id="4634945">Мужские бутсы</category>
+<category id="80002" rz_id="80002">Видеокамеры</category>
+<category id="4628488" rz_id="4628488">Мебель для холла (салонов красоты)</category>
+<category id="4629129" rz_id="4629129">Массажные кресла</category>
+<category id="4629431" rz_id="4629431">Новогодние подарки</category>
+<category id="4637767" rz_id="4637767">Мужские халаты</category>
+<category id="80162" rz_id="80162">Микроволновые печи</category>
+<category id="82249" rz_id="82249">Карты видеозахвата</category>
+<category id="80027" rz_id="80027">Наушники</category>
+<category id="80003" rz_id="80003">Мобильные телефоны</category>
+<category id="4625274" rz_id="4625274">Сканеры штрих-кодов</category>
+<category id="87073" rz_id="87073">Ножи тактические</category>
+<category id="4675070" rz_id="4675070">Светодиодные лампы (LED)</category>
+<category id="4634177" rz_id="4634177">Сапоги для девочек</category>
+<category id="80023" rz_id="80023">Электронные книги</category>
+<category id="4625011" rz_id="4625011">Кофе</category>
+<category id="278086" rz_id="278086">Автолампы</category>
+<category id="305219" rz_id="305219">Чехлы для планшетов</category>
+</categories>
+<offers>
+<offer id="1234321" available="false">
+<price>3805</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/318168615.jpg</picture>
+<name>Камера моментального друку Fujifilm Instax Mini 12 Clay White Глиняно-біла</name>
+<name_ua>Камера моментального друку Фуджіфілм Інстракс Мінi 12 Глиняно-біла</name_ua>
+<vendor>Fujifilm</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ Наповни свій світ радістю Надзвичайно яскрава камера INSTAX mini 12 наповнена радістю, творчістю та кольором. Ця культова камера миттєвого фільмування не лише доступна в п&#039;яти яскравих тонах – пастельно-блакитному, м&#039;ятно-зеленому, ніжно-рожевому, бузково-фіолетовому та глиняно-білому – вона ще й має безліч зручних режимів та елементів керування. INSTAX mini 12 створена для того, щоб йти в ногу з часом і готова до роботи простим поворотом об&#039;єктива. Поверніть ще раз, і ви перейдете в режим фільмування великим планом, ідеальним для селфі. У поєднанні з ідеально розташованим селфі-дзеркалом, автоматичним керуванням спалахом та веселими мінівідбитками, mini 12 – це дивовижна камера для фільмування миттєвих селфі. Але це ще не все, на що здатний режим фільмування великим планом. Коли він активований, регульований видошукач акуратно поєднується з об&#039;єктивом, тому ви отримуєте те, що бачите. (До речі, модний термін для цього – корекція паралакса.) Тому що коли ви перебуваєте так близько, у вас немає місця для помилки. Крім того, з автоматичною експозицією ви можете просто прицілитися та клацнути. Жодних налаштувань, тільки радісні моментальні знімки щоразу. А після того, як ви зробите знімок, мінідрук з&#039;явиться на екрані лише за п&#039;ять секунд. І все це без шкоди якості зображення. Це заслуговує найвищих п&#039;яти балів. Коли ви закінчите фіксувати спогади, поверніть об&#039;єктив ще раз, щоб вимкнути mini 12. Але на цьому розваги не закінчуються. Завантажте програму INSTAXUP! і ви отримаєте новий блискучий спосіб зберігати всі ваші фотографії INSTAX в одному місці в цифровому форматі. Все, що вам потрібно зробити, це просканувати фізичні відбитки телефоном, і вони будуть перетворені на цифрові знімки, якими можна ділитися, які ви можете точно налаштувати, позначити та зберегти. ]]>
+</description>
+<description_ua>
+<![CDATA[ Наповни свій світ радістю Надзвичайно яскрава камера INSTAX mini 12 наповнена радістю, творчістю та кольором. Ця культова камера миттєвого фільмування не лише доступна в п&#039;яти яскравих тонах – пастельно-блакитному, м&#039;ятно-зеленому, ніжно-рожевому, бузково-фіолетовому та глиняно-білому – вона ще й має безліч зручних режимів та елементів керування. INSTAX mini 12 створена для того, щоб йти в ногу з часом і готова до роботи простим поворотом об&#039;єктива. Поверніть ще раз, і ви перейдете в режим фільмування великим планом, ідеальним для селфі. У поєднанні з ідеально розташованим селфі-дзеркалом, автоматичним керуванням спалахом та веселими мінівідбитками, mini 12 – це дивовижна камера для фільмування миттєвих селфі. Але це ще не все, на що здатний режим фільмування великим планом. Коли він активований, регульований видошукач акуратно поєднується з об&#039;єктивом, тому ви отримуєте те, що бачите. (До речі, модний термін для цього – корекція паралакса.) Тому що коли ви перебуваєте так близько, у вас немає місця для помилки. Крім того, з автоматичною експозицією ви можете просто прицілитися та клацнути. Жодних налаштувань, тільки радісні моментальні знімки щоразу. А після того, як ви зробите знімок, мінідрук з&#039;явиться на екрані лише за п&#039;ять секунд. І все це без шкоди якості зображення. Це заслуговує найвищих п&#039;яти балів. Коли ви закінчите фіксувати спогади, поверніть об&#039;єктив ще раз, щоб вимкнути mini 12. Але на цьому розваги не закінчуються. Завантажте програму INSTAXUP! і ви отримаєте новий блискучий спосіб зберігати всі ваші фотографії INSTAX в одному місці в цифровому форматі. Все, що вам потрібно зробити, це просканувати фізичні відбитки телефоном, і вони будуть перетворені на цифрові знімки, якими можна ділитися, які ви можете точно налаштувати, позначити та зберегти. ]]>
+</description_ua>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 7 років офіційної гарантії від виробника на конструкцію ]]>
+</param>
+<stock_quantity>10</stock_quantity>
+<promo_price>3405</promo_price>
+<article>16806121</article>
+</offer>
+<offer id="539220744" available="false">
+<price>39999</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<name>Тестовий товар для тесту оновлень</name>
+<name_ua>Тестовий товар для тесту оновлень</name_ua>
+<docket_ua>
+<![CDATA[ все ще короткий ]]>
+</docket_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ [html]&amp;lt;p&amp;gt;опис руснявою&amp;lt;/p&amp;gt;[/html] ]]>
+</description>
+<description_ua>
+<![CDATA[ [html]&amp;lt;p&amp;gt;нормальний опис&amp;lt;/p&amp;gt;[/html] ]]>
+</description_ua>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<param name="Система" paramid="23389" valueid="11856">
+<![CDATA[ Беззеркальная ]]>
+</param>
+<param name="EAN" paramid="26294">
+<![CDATA[ pdrkb1234321 ]]>
+</param>
+<param name="Кількість ефективних пікселів">
+<![CDATA[ Более 20 ]]>
+</param>
+<param name="Колір">
+<![CDATA[ Black-Blue ]]>
+</param>
+<param name="Розмір сенсора">
+<![CDATA[ 23.7 х 15.6 мм ]]>
+</param>
+<param name="Запис відео">
+<![CDATA[ 4K (4096x2160) ]]>
+</param>
+<param name="Кількість предметів" paramid="92802" valueid="475520">
+<![CDATA[ 1 ]]>
+</param>
+<param name="EAN">
+<![CDATA[ pdrkb1234321 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>13</stock_quantity>
+<article>3124132</article>
+</offer>
+<offer id="548370267" available="false">
+<price>1005</price>
+<currencyId>UAH</currencyId>
+<categoryId>4634945</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/603325847.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/603325858.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/603325860.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/603325864.jpg</picture>
+<name>тест фото</name>
+<name_ua>тест фото 3</name_ua>
+<vendor>Sony</vendor>
+<price_old>1001</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;[html]&lt;/p&gt; &lt;p&gt;Опис українською&lt;/p&gt; &lt;p&gt;[/html]&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;[html]&lt;/p&gt; &lt;p&gt;Опис українською&lt;/p&gt; &lt;p&gt;[/html]&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантія" paramid="20769" valueid="2667717">
+<![CDATA[ 1 месяц от производителя, 1 месяц от продавца ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+</param>
+<promo_price>999</promo_price>
+<article>234235</article>
+<min_cart_quantity>1</min_cart_quantity>
+<max_cart_quantity>1</max_cart_quantity>
+</offer>
+<offer id="533305534" available="false">
+<price>100000</price>
+<currencyId>UAH</currencyId>
+<categoryId>4643976</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/597786325.webp</picture>
+<name>Автосканер Vag Соm HEX V2 VCDS 24.7 он же Вася Диагност на русском языке сканер OBD2 подарок сборник кодировок -COPY- (COPY)</name>
+<name_ua>Автосканер Vag HEX V2 VCDS 24.7 він же Вася Діагност на РОСІЙСЬКІЙ мові сканер OBD2 подарунок збірник кодувань (COPY)</name_ua>
+<vendor>Vag Com</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;/p&amp;gt;&amp;lt;h4&amp;gt;СОM&amp;lt;/h4&amp;gt;&amp;lt;p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;/p&amp;gt;&amp;lt;h4&amp;gt;СОМ&amp;lt;/h4&amp;gt;&amp;lt;p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description_ua>
+<param name="Ширина в упаковці (см)" paramid="72949">
+<![CDATA[ 16 ]]>
+</param>
+<param name="Висота в упаковці (см)" paramid="72950">
+<![CDATA[ 17 ]]>
+</param>
+<param name="Гарантія" paramid="20769" valueid="6169">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+</param>
+<stock_quantity>2</stock_quantity>
+</offer>
+<offer id="555184617" available="false">
+<price>1000</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/648299740.webp</picture>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/648299745.jpg</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648299750.jpg</picture>
+<name>Назва товару33</name>
+<name_ua>Назва товару33</name_ua>
+<vendor>Sony</vendor>
+<price_old>1001</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантия" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<promo_price>999</promo_price>
+</offer>
+<offer id="123454321" available="false">
+<price>5505</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/big/152563643.jpg</picture>
+<name>Камера миттєвого друку Fujifilm Instax Square SQ 1 EX D Orange</name>
+<name_ua>Камера миттєвого друку Fujifilm Instax Square SQ 1 EX D Помаранчева</name_ua>
+<vendor>Fujifilm</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ Квадратний формат Безмежна креативність завдяки свободі та формату ширшого кадру. *у порівнянні з плівкою instax mini (86х54 мм). Автоекспозиція Яскраве фото можна зробити навіть за недостатнього освітлення — немає потреби у спеціальних налаштуваннях. Режим селфі Навіть селфі виходять ідеально чіткими! Щоб отримати максимально якісний знімок, використовуйте дзеркальце для селфі! Режим селфі також незамінний під час зйомки великих планів. Зйомка великим планом у межах 30–50 см. Просте керування Щоб УВІМКНУТИ — поверніть об’єктив! Поверніть ще раз для переходу в режим селфі! ]]>
+</description>
+<description_ua>
+<![CDATA[ Квадратний формат Безмежна креативність завдяки свободі та формату ширшого кадру. *у порівнянні з плівкою instax mini (86х54 мм). Автоекспозиція Яскраве фото можна зробити навіть за недостатнього освітлення — немає потреби у спеціальних налаштуваннях. Режим селфі Навіть селфі виходять ідеально чіткими! Щоб отримати максимально якісний знімок, використовуйте дзеркальце для селфі! Режим селфі також незамінний під час зйомки великих планів. Зйомка великим планом у межах 30–50 см. Просте керування Щоб УВІМКНУТИ — поверніть об’єктив! Поверніть ще раз для переходу в режим селфі! ]]>
+</description_ua>
+<stock_quantity>20</stock_quantity>
+<promo_price>3450</promo_price>
+<article>16672132</article>
+</offer>
+<offer id="554438292" available="false">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/613019779.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/613019789.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/613019797.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/613019813.jpg</picture>
+<name>Тестинг фото</name>
+<name_ua>Тестинг фото</name_ua>
+<vendor>Sony</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+</offer>
+<offer id="12342LD" available="true">
+<price>122</price>
+<currencyId>UAH</currencyId>
+<categoryId>85432</categoryId>
+<picture>https://eleyus.com/uploads/products/galleryphotoimage/2025/02/06/hazova-varylna-poverkhnia-eleyus-cabo-30-bl-cf-photo-11.jpg</picture>
+<name>Перевірка чи не випадуть в видалення прайсу після правки з апдейтом шось не так</name>
+<name_ua>Перевірка чи не випадуть в видалення прайсу після правки з апдейтом шось не так</name_ua>
+<docket_ua>
+<![CDATA[ шорт дескріптіон ]]>
+</docket_ua>
+<vendor>сумний бренд</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ перевірка зміни опису ]]>
+</description>
+<description_ua>
+<![CDATA[ перевірка зміни опису ]]>
+</description_ua>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 10 місяців ]]>
+</param>
+<param name="Код виробника" paramid="21784">
+<![CDATA[ 43231435 ]]>
+</param>
+<param name="Код УКТ ЗЕД" paramid="82508">
+<![CDATA[ 42443424434 ]]>
+</param>
+<param name="Країна реєстрації бренду" paramid="87790">
+<![CDATA[ Бельгія ]]>
+</param>
+<param name="Кількість в упаковці, шт" paramid="92802">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Країна-виробник товару" paramid="98900">
+<![CDATA[ Бельгія ]]>
+</param>
+<param name="Кількість одиниць (для розрахунку ціни за одиницю в КТ) (шт)" paramid="141072">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Кількість одиниць для перерахунку" paramid="141080">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Розміри" paramid="22327">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Матеріал корпусу" paramid="236541">
+<![CDATA[ Полімер ]]>
+</param>
+<param name="Вид" paramid="22324">
+<![CDATA[ Кишенькові ]]>
+</param>
+<param name="Потужність світлового потоку, лм" paramid="22325">
+<![CDATA[ 31 ]]>
+</param>
+<param name="Вага, г" paramid="22326">
+<![CDATA[ 42 ]]>
+</param>
+<param name="Джерело енергії" paramid="22332">
+<![CDATA[ Вбудований акумулятор ]]>
+</param>
+<param name="Колір корпусу" paramid="22462">
+<![CDATA[ Бежево-чорний ]]>
+</param>
+<param name="Комплектація" paramid="24965">
+<![CDATA[ ліхтар ]]>
+</param>
+<param name="Особливості" paramid="236676">
+<![CDATA[ З магнітом ]]>
+</param>
+<param name="Ємність акумулятора, мА·год" paramid="236681">
+<![CDATA[ 400 ]]>
+</param>
+<param name="Ступінь захисту" paramid="258334">
+<![CDATA[ IP68 ]]>
+</param>
+<param name="Потужність, Вт" paramid="259069">
+<![CDATA[ 23 ]]>
+</param>
+<param name="Кількість вантажних місць" paramid="72961">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Вага в упаковці, кг" paramid="48739">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Ширина в упаковці (см)" paramid="72949">
+<![CDATA[ 20 ]]>
+</param>
+<param name="Глибина в упаковці (см)" paramid="72944">
+<![CDATA[ 20 ]]>
+</param>
+<param name="Висота в упаковці (см)" paramid="72950">
+<![CDATA[ 20 ]]>
+</param>
+<param name="EAN">
+<![CDATA[ urjdnej48374 ]]>
+</param>
+<stock_quantity>15</stock_quantity>
+<article>12342LD</article>
+</offer>
+<offer id="43OT563" available="true">
+<price>129</price>
+<currencyId>UAH</currencyId>
+<categoryId>85432</categoryId>
+<picture>https://eleyus.com/uploads/products/galleryphotoimage/2025/02/06/hazova-varylna-poverkhnia-eleyus-cabo-30-bl-cf-photo-11.jpg</picture>
+<name>якась тестовар назва товару бо закінчились варіанти</name>
+<name_ua>шось типу тесту адейту товару</name_ua>
+<docket_ua>
+<![CDATA[ дуже короткий ]]>
+</docket_ua>
+<vendor>ще якийсь бренд</vendor>
+<price_old>135</price_old>
+<state>new</state>
+<description>
+<![CDATA[ вноситься опис для перевірки опису, опис ]]>
+</description>
+<description_ua>
+<![CDATA[ вноситься опис для перевірки опису, опис ]]>
+</description_ua>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 10 місяців ]]>
+</param>
+<param name="Код виробника" paramid="21784">
+<![CDATA[ 1234567 ]]>
+</param>
+<param name="Код УКТ ЗЕД" paramid="82508">
+<![CDATA[ 1029384756 ]]>
+</param>
+<param name="Країна реєстрації бренду" paramid="87790">
+<![CDATA[ Бельгія ]]>
+</param>
+<param name="Кількість в упаковці, шт" paramid="92802">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Країна-виробник товару" paramid="98900">
+<![CDATA[ Бельгія ]]>
+</param>
+<param name="Кількість одиниць (для розрахунку ціни за одиницю в КТ) (шт)" paramid="141072">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Кількість одиниць для перерахунку" paramid="141080">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Розміри" paramid="22327">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Матеріал корпусу" paramid="236541">
+<![CDATA[ Полімер ]]>
+</param>
+<param name="Вид" paramid="22324">
+<![CDATA[ Кишенькові ]]>
+</param>
+<param name="Потужність світлового потоку, лм" paramid="22325">
+<![CDATA[ 34 ]]>
+</param>
+<param name="Вага, г" paramid="22326">
+<![CDATA[ 24 ]]>
+</param>
+<param name="Джерело енергії" paramid="22332">
+<![CDATA[ Вбудований акумулятор ]]>
+</param>
+<param name="Колір корпусу" paramid="22462">
+<![CDATA[ Бежево-чорний ]]>
+</param>
+<param name="Комплектація" paramid="24965">
+<![CDATA[ ліхтар ]]>
+</param>
+<param name="Особливості" paramid="236676">
+<![CDATA[ З магнітом ]]>
+</param>
+<param name="Ємність акумулятора, мА·год" paramid="236681">
+<![CDATA[ 500 ]]>
+</param>
+<param name="Ступінь захисту" paramid="258334">
+<![CDATA[ IP68 ]]>
+</param>
+<param name="Потужність, Вт" paramid="259069">
+<![CDATA[ 25 ]]>
+</param>
+<param name="Кількість вантажних місць" paramid="72961">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Вага в упаковці, кг" paramid="48739">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Ширина в упаковці (см)" paramid="72949">
+<![CDATA[ 20 ]]>
+</param>
+<param name="Глибина в упаковці (см)" paramid="72944">
+<![CDATA[ 20 ]]>
+</param>
+<param name="Висота в упаковці (см)" paramid="72950">
+<![CDATA[ 20 ]]>
+</param>
+<param name="EAN">
+<![CDATA[ kfjhde74635 ]]>
+</param>
+<stock_quantity>20</stock_quantity>
+<promo_price>100</promo_price>
+<article>43OT563</article>
+</offer>
+<offer id="63562OE" available="true">
+<price>125</price>
+<currencyId>UAH</currencyId>
+<categoryId>85432</categoryId>
+<picture>https://eleyus.com/uploads/products/galleryphotoimage/2025/02/06/hazova-varylna-poverkhnia-eleyus-cabo-30-bl-cf-photo-9.jpg</picture>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/644095213.png</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/644095214.png</picture>
+<name>якась тестовар назва товару при апдейті</name>
+<name_ua>якась тестовар назва товару</name_ua>
+<docket_ua>
+<![CDATA[ не дуже короткий ]]>
+</docket_ua>
+<vendor>ще якийсь бренд</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;вже не придумаю щось адекватне для внесення та перевірки опису&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;вже не придумаю щось адекватне для внесення та перевірки опису&lt;/p&gt; ]]>
+</description_ua>
+<param name="Вид" paramid="22324" valueid="5059719">
+<![CDATA[ Карманные ]]>
+</param>
+<param name="Гарантия" paramid="20769" valueid="1316080">
+<![CDATA[ 10 месяцев ]]>
+</param>
+<param name="Код производителя" paramid="21784">
+<![CDATA[ 7654321 ]]>
+</param>
+<param name="Код УКТ ВЭД" paramid="82508">
+<![CDATA[ 5647382910 ]]>
+</param>
+<param name="Страна регистрации бренда" paramid="87790" valueid="430558">
+<![CDATA[ Бельгия ]]>
+</param>
+<param name="Количество предметов" paramid="92802" valueid="475520">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Страна-производитель товара" paramid="98900" valueid="634603">
+<![CDATA[ Бельгия ]]>
+</param>
+<param name="Количество единиц (для расчета цены за единицу в КТ)" paramid="141072">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Количество единиц для пересчета" paramid="141080">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Размеры" paramid="22327">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Материал посуды" paramid="236541" valueid="5060464">
+<![CDATA[ Полимер ]]>
+</param>
+<param name="Мощность светового потока" paramid="22325">
+<![CDATA[ 45 ]]>
+</param>
+<param name="Вес" paramid="22326">
+<![CDATA[ 36 ]]>
+</param>
+<param name="Источник энергии" paramid="22332" valueid="5059764">
+<![CDATA[ Встроенный аккумулятор ]]>
+</param>
+<param name="Цвет корпуса" paramid="22462" valueid="2586631">
+<![CDATA[ Бежево-черный ]]>
+</param>
+<param name="Комплектация" paramid="24965">
+<![CDATA[ &lt;p&gt;ліхтар&lt;/p&gt; ]]>
+</param>
+<param name="Особенности" paramid="236676" valueid="3612726">
+<![CDATA[ С магнитом ]]>
+</param>
+<param name="Емкость аккумулятора" paramid="236681">
+<![CDATA[ 600 ]]>
+</param>
+<param name="Степень защиты" paramid="258334" valueid="4844454">
+<![CDATA[ IP68 ]]>
+</param>
+<param name="Мощность" paramid="259069">
+<![CDATA[ 30 ]]>
+</param>
+<param name="Количество грузовых мест" paramid="72961" valueid="311769">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Вес в упаковке" paramid="48739">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Ширина в упаковке (см)" paramid="72949">
+<![CDATA[ 20 ]]>
+</param>
+<param name="Глубина в упаковке (см)" paramid="72944">
+<![CDATA[ 20 ]]>
+</param>
+<param name="Высота в упаковке (см)" paramid="72950">
+<![CDATA[ 20 ]]>
+</param>
+<param name="EAN">
+<![CDATA[ kriie23456 ]]>
+</param>
+<stock_quantity>12</stock_quantity>
+<article>63562OE</article>
+</offer>
+<offer id="auto_696f6d6ec1372" available="true">
+<price>12</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/646361975.png</picture>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/646361976.png</picture>
+<name>тест (COPY)</name>
+<name_ua>тест (COPY)</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;Відсутній&lt;/p&gt; ]]>
+</description_ua>
+<param name="Матрица фотоаппарата" paramid="20776">
+<![CDATA[ &lt;p&gt;ав&lt;/p&gt; ]]>
+</param>
+<stock_quantity>12</stock_quantity>
+<article>876876</article>
+</offer>
+<offer id="555184611" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614547625.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614547632.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614547634.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614547637.webp</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/614547642.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614547647.jpg</picture>
+<name>Назва товару77</name>
+<name_ua>Назва товару77</name_ua>
+<vendor>Sony</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="554441307" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/613042090.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/613042105.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/613042113.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/613042117.jpg</picture>
+<name>Тестинг фото5</name>
+<name_ua>Тестинг фото5</name_ua>
+<vendor>Sony</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="558896499" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80023</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/621244920.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/621244922.jpg</picture>
+<name>тест - Уценка</name>
+<name_ua>тестовий тест - Уцінка</name_ua>
+<docket_ua>
+<![CDATA[ &lt;p&gt;тестовий&lt;/p&gt; ]]>
+</docket_ua>
+<vendor>Pentax</vendor>
+<price_old>0</price_old>
+<state>3</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Код виробника" paramid="21784">
+<![CDATA[ 123 ]]>
+</param>
+<param name="Гарантія" paramid="20769" valueid="2667724">
+<![CDATA[ 1 месяц от производителя, 3 месяца от продавца ]]>
+</param>
+<param name="Нагорода" paramid="21071" valueid="2649">
+<![CDATA[ CHIP Выбор редакции №02/2009 ]]>
+</param>
+<param name="Колір" paramid="21736" valueid="2697420">
+<![CDATA[ Black-Green ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="554413575" available="true">
+<price>10</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<name>супер товар</name>
+<name_ua>супер товар</name_ua>
+<vendor>Sony</vendor>
+<price_old>1001</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>10</stock_quantity>
+<promo_price>999</promo_price>
+</offer>
+<offer id="545051283" available="true">
+<price>10</price>
+<currencyId>UAH</currencyId>
+<categoryId>4634945</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/596147683.jpg</picture>
+<name>тест</name>
+<name_ua>тест 111</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ [html] &lt;p&gt;12654&lt;/p&gt; [/html] ]]>
+</description>
+<description_ua>
+<![CDATA[ [html] &lt;p&gt;12654&lt;/p&gt; [/html] ]]>
+</description_ua>
+<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+</param>
+<stock_quantity>10</stock_quantity>
+<article>123658</article>
+</offer>
+<offer id="536978219" available="true">
+<price>2050</price>
+<currencyId>UAH</currencyId>
+<categoryId>4634945</categoryId>
+<name>Бутси Air Zoom Mercurial Vapor 16 Elite 45 FG з мішечком Сіро-Салатовий</name>
+<name_ua>Бутси Air Zoom Mercurial Vapor 16 Elite 45 FG з мішечком Сіро-Салатовий</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ Бутси Air Zoom Mercurial Vapor 16 Elite FG з мішкомШвидкість. Вибух. Легенда.Air Zoom Mercurial Vapor 16 Elite FG — вибір тих, хто грає на повній швидкості. Надлегкі та динамічні, ці бутси створені для стрімкого прискорення та різких змін напрямку.Основні переваги:Вбудований модуль Zoom Air у підошві — для потужного відштовхування та амортизації на високих швидкостях.Ультралегкий верх Vaporposite+ забезпечує точну посадку і чудове відчуття м’яча.Підошва з системою шипів Tri-Star гарантує максимальне зчеплення на натуральному газоні.Анатомічна форма щільно охоплює стопу, не обмежуючи рухів.У комплекті — фірмовий мішок для бутс, зручний у дорозі та на тренуваннях.Air Zoom Mercurial Vapor 16 Elite FG — твоя швидкість, твої правила. ]]>
+</description>
+<description_ua>
+<![CDATA[ Бутси Air Zoom Mercurial Vapor 16 Elite FG з мішкомШвидкість. Вибух. Легенда.Air Zoom Mercurial Vapor 16 Elite FG — вибір тих, хто грає на повній швидкості. Надлегкі та динамічні, ці бутси створені для стрімкого прискорення та різких змін напрямку.Основні переваги:Вбудований модуль Zoom Air у підошві — для потужного відштовхування та амортизації на високих швидкостях.Ультралегкий верх Vaporposite+ забезпечує точну посадку і чудове відчуття м’яча.Підошва з системою шипів Tri-Star гарантує максимальне зчеплення на натуральному газоні.Анатомічна форма щільно охоплює стопу, не обмежуючи рухів.У комплекті — фірмовий мішок для бутс, зручний у дорозі та на тренуваннях.Air Zoom Mercurial Vapor 16 Elite FG — твоя швидкість, твої правила. ]]>
+</description_ua>
+<param name="Колір" paramid="38580" valueid="57735;101430">
+<![CDATA[ Салатовый, Серый ]]>
+</param>
+<param name="Розмір" paramid="38645" valueid="59630">
+<![CDATA[ 45 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>3</stock_quantity>
+<article>68a459f3b82f5</article>
+</offer>
+<offer id="533305539" available="true">
+<price>200000</price>
+<currencyId>UAH</currencyId>
+<categoryId>82249</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/593199163.webp</picture>
+<name>Набір дерев'яних меблевих гачків для одягу ø35–150мм Ясен</name>
+<name_ua>Набір дерев'яних гачків для одягу ø35–150мм Ясен (6 шт)</name_ua>
+<vendor>HENGJI</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;p&amp;gt;Набор деревянных крючков для одежды из ясеня станет стильным и функциональным дополнением вашего интерьера. Они идеально подходят для размещения в прихожих, гостиных или спальнях, помогая организовать пространство и хранить вещи в порядке.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Преимущества:&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Эстетичный дизайн из натурального дерева.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Разные размеры для разных нужд.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Простота установки.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Прочный и долговечный материал.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h2&amp;gt;Технические характеристики:&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Материал: Ясень&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Диаметр крючков: от 35 мм до 150 мм&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Количество в наборе: 6 шт&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h2&amp;gt;Комплектация:&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;6 деревянных крючков&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Состояние:&amp;lt;/strong&amp;gt; Новый&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Этот набор крючков представляет собой идеальное сочетание практичности и надежности, отлично подходит для любого интерьера.&amp;lt;/p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;p&amp;gt;Набір дерев&amp;#039;яних гачків для одягу з ясеню стане стильним і функціональним доповненням вашого інтер&amp;#039;єру. Вони ідеально підходять для розміщення в передпокоях, вітальнях або спальнях, допомагаючи організувати простір та зберігати речі в порядку.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Переваги:&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Естетичний дизайн з натурального дерева.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Різні розміри для різних потреб.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Простота монтажу.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Міцний і довговічний матеріал.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h2&amp;gt;Технічні характеристики:&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Матеріал: Ясень&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Діаметр гачків: від 35 мм до 150 мм&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Кількість в наборі: 6 шт&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h2&amp;gt;Комплектація:&amp;lt;/h2&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;6 дерев&amp;#039;яних гачків&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Стан:&amp;lt;/strong&amp;gt; Новий&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Цей набір гачків є ідеальним поєднанням практичності та довговічності, чудово підходить для будь-якого інтер&amp;#039;єру.&amp;lt;/p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description_ua>
+<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+<![CDATA[ Украина ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ &lt;p&gt;Набір дерев&#039;яних гачків для одягу з ясеню стане стильним і функціональним доповненням вашого інтер&#039;єру. Вони ідеально підходять для розміщення в передпокоях, вітальнях або спальнях, допомагаючи організувати простір та зберігати речі в порядку.&lt;/p&gt; ]]>
+</value>
+<value lang="uk">
+<![CDATA[ &lt;p&gt;Набір дерев&#039;яних гачків для одягу з ясеню стане стильним і функціональним доповненням вашого інтер&#039;єру. Вони ідеально підходять для розміщення в передпокоях, вітальнях або спальнях, допомагаючи організувати простір та зберігати речі в порядку.&lt;/p&gt; ]]>
+</value>
+</param>
+<stock_quantity>2</stock_quantity>
+<article>50026</article>
+</offer>
+<offer id="auto_68a459aa63df5" available="true">
+<price>888888</price>
+<currencyId>UAH</currencyId>
+<categoryId>80002</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/587104703.jpg</picture>
+<name>тт</name>
+<name_ua>тт</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Тип носителя" paramid="20815" valueid="168">
+<![CDATA[ Digital 8 ]]>
+</param>
+<stock_quantity>3</stock_quantity>
+</offer>
+<offer id="auto_68a459f3b82f5" available="true">
+<price>1212121</price>
+<currencyId>UAH</currencyId>
+<categoryId>80004</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/587104705.jpg</picture>
+<name>шр</name>
+<name_ua>шр</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантия" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<stock_quantity>3</stock_quantity>
+</offer>
+<offer id="auto_694e8753c33a3" available="true">
+<price>768</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/638067522.png</picture>
+<name>yup</name>
+<name_ua>yup</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Зум" paramid="20779">
+<![CDATA[ 2 ]]>
+</param>
+<stock_quantity>12</stock_quantity>
+</offer>
+<offer id="558896310" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/621243214.png</picture>
+<name>Тестовий товар</name>
+<name_ua>Тестовий товар</name_ua>
+<vendor>Pentax</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ [html]&amp;lt;p&amp;gt;Тестовий товар&amp;lt;/p&amp;gt;[/html] ]]>
+</description>
+<description_ua>
+<![CDATA[ [html]&amp;lt;p&amp;gt;Тестовий товар&amp;lt;/p&amp;gt;[/html] ]]>
+</description_ua>
+<param name="Зум" paramid="20779">
+<![CDATA[ Оптичний: 3.05x ]]>
+</param>
+<param name="Клас" paramid="213057">
+<![CDATA[ Професійний ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="auto_694955516414e" available="true">
+<price>768</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/636612645.webp</picture>
+<name>Фотоапарат Canon EOS 2000D BK 18-55 DC III 2728C007AA</name>
+<name_ua>Фотоапарат Canon EOS 2000D BK 18-55 DC III 2728C007AA</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;h2&gt;Фотоаппарат Canon EOS 2000D BK 18-55 DC III 2728C007AA&lt;/h2&gt;&lt;p&gt;Этот цифровой фотоаппарат прекрасно подходит для начинающих в фотографии, обеспечивая простоту использования и высокое качество изображений со сменными объективами.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;24,1-мегапиксельный датчик для четких фотографий.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Поддержка Wi-Fi для легкого обмена фотографиями.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Интуитивно понятный интерфейс для простоты использования.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Технические характеристики:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Матрица: CMOS, 24,1 Мп&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Объектив: EF-S 18-55 мм DC III&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Экран: 3,0 дюйма&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Видео: Full HD 1080p&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Подключение: Wi-Fi&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Комплектация:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Фотоаппарат Canon EOS 2000D&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Объектив EF-S 18-55 мм DC III&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ремень и зарядное устройство&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Состояние: Новый&lt;/p&gt;&lt;p&gt;Canon EOS 2000D — это надежный выбор для съемки отличных фотографий и запечатления лучших моментов вашей жизни.&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;h2&gt;Фотоапарат Canon EOS 2000D BK 18-55 DC III 2728C007AA&lt;/h2&gt;&lt;p&gt;Цей цифровий фотоапарат чудово підходить для початківців у фотографії, забезпечуючи простоту використання та високу якість зображень зі змінними об&#039;єктивами.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;24.1 мегапіксельний сенсор для чітких фотографій.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wi-Fi підтримка для легкого обміну фотографіями.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Інтуїтивно зрозумілий інтерфейс для легкості використання.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Технічні характеристики:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Матриця: CMOS, 24.1 Мп&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Об&#039;єктив: EF-S 18-55 мм DC III&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Екран: 3.0 дюйми&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Відео: Full HD 1080p&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Підключення: Wi-Fi&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Комплектація:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Фотоапарат Canon EOS 2000D&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Об&#039;єктив EF-S 18-55 мм DC III&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ремінь та зарядний пристрій&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Стан: Новий&lt;/p&gt;&lt;p&gt;Canon EOS 2000D — це надійний вибір для знімання чудових фотографій і запам&#039;ятовування найкращих моментів вашого життя.&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантия" paramid="20769" valueid="2675649">
+<![CDATA[ 5 лет на электронику, 24 месяца на батарею ]]>
+</param>
+<param name="Матрица фотоаппарата" paramid="20776">
+<![CDATA[ &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;22.3 x 14.9 мм, CMOS&lt;br /&gt;Загальна кількість пікселів: 24.1 Мп&lt;br /&gt;Кількість ефективних пікселів: 24.7 Мп&lt;br /&gt;Співвідношення сторін: 3:2&lt;br /&gt;Фільтр нижніх частот: вбудований/фіксований&lt;br /&gt;Очищення датчика зображення: Ручне чищення та Отримання даних для видалення пилу&lt;br /&gt;Тип кольорового світлофільтра: Основні кольори RGB&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt; ]]>
+</param>
+<param name="Светочувствительность" paramid="20777">
+<![CDATA[ &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Авто ISO (100-6400), 100-6400 з кроком 1 ступінь&lt;br /&gt;Доступне розширення ISO до H: 12800&lt;br /&gt;Під час відеозйомки: Auto (100-6400), 100-6400 (ціла ступінь)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt; ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+<article>2728C007AA</article>
+</offer>
+<offer id="560708013" available="true">
+<price>768</price>
+<currencyId>UAH</currencyId>
+<categoryId>245547</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/624910245.jpg</picture>
+<name>Тест ціни</name>
+<name_ua>Тест ціни</name_ua>
+<vendor/>
+<price_old>7000</price_old>
+<state>new</state>
+<description>
+<![CDATA[ [html]&amp;lt;p&amp;gt;тест ціни&amp;lt;/p&amp;gt;[/html] ]]>
+</description>
+<description_ua>
+<![CDATA[ [html]&amp;lt;p&amp;gt;Тест ціни&amp;lt;/p&amp;gt;[/html] ]]>
+</description_ua>
+<param name="Гарантія">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="563282649" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>278086</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/633043619.jpg</picture>
+<name>тест красивый change</name>
+<name_ua>test ua</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ [html]&amp;lt;p&amp;gt;товар&amp;lt;/p&amp;gt;[/html] ]]>
+</description>
+<description_ua>
+<![CDATA[ ghjdthrf ntcn ]]>
+</description_ua>
+<param name="Гарантія">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Кількість предметів" paramid="92802" valueid="475520">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<promo_price>1000000</promo_price>
+<article>9874123651</article>
+</offer>
+<offer id="536978204" available="true">
+<price>25500</price>
+<currencyId>UAH</currencyId>
+<categoryId>4634945</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/648191819.jpg</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/648191826.jpg</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/648191828.jpg</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/648191833.jpg</picture>
+<name>Бутси Phantom GX2 United Pack 42 з мішечком Фіолетовий</name>
+<name_ua>Бутси Phantom GX2 United Pack 42 з мішечком Фіолетовий ТЕСТ на чендж</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Бутси Phantom GX2 Elite FG United Pack з мішком Контроль у кожному русі. Єдність у кожній деталі. Nike Phantom GX2 Elite з колекції United Pack — це не просто бутси, а маніфест точності й стилю на полі. Спеціальне забарвлення символізує силу командної гри та єдності, а сучасні технології роблять усе, щоб ти був на крок попереду. Основні переваги: Gripknit-вставки в ключових зонах забезпечують точний контроль м’яча навіть на високій швидкості. Анатомічна посадка Flyknit щільно облягає стопу та надає впевненості в кожному русі. Підошва Tri-Star гарантує чудове зчеплення на натуральному газоні під час різких маневрів. Яскравий дизайн United Pack — для тих, хто вирізняється не лише грою, а й стилем. У комплекті — фірмовий мішок для бутс, зручний для зберігання та транспортування. Phantom GX2 United Pack — грай яскраво, грай точно, грай у команді.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt; [/html]&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Бутси Phantom GX2 Elite FG United Pack з мішком Контроль у кожному русі. Єдність у кожній деталі. Nike Phantom GX2 Elite з колекції United Pack — це не просто бутси, а маніфест точності й стилю на полі. Спеціальне забарвлення символізує силу командної гри та єдності, а сучасні технології роблять усе, щоб ти був на крок попереду. Основні переваги: Gripknit-вставки в ключових зонах забезпечують точний контроль м’яча навіть на високій швидкості. Анатомічна посадка Flyknit щільно облягає стопу та надає впевненості в кожному русі. Підошва Tri-Star гарантує чудове зчеплення на натуральному газоні під час різких маневрів. Яскравий дизайн United Pack — для тих, хто вирізняється не лише грою, а й стилем. У комплекті — фірмовий мішок для бутс, зручний для зберігання та транспортування. Phantom GX2 United Pack — грай яскраво, грай точно, грай у команді.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt; [/html]&lt;/p&gt; ]]>
+</description_ua>
+<param name="Матеріал підошви" paramid="38635" valueid="127097">
+<![CDATA[ Пластик ]]>
+</param>
+<param name="Сезон" paramid="39560" valueid="63315">
+<![CDATA[ Демисезонный ]]>
+</param>
+<param name="Призначення" paramid="131552" valueid="1139111">
+<![CDATA[ Для футбола ]]>
+</param>
+<param name="Артикул моделі" paramid="256977">
+<![CDATA[ С-3 ]]>
+</param>
+<param name="Тип бутс" paramid="256539" valueid="4622184">
+<![CDATA[ Шиповки ]]>
+</param>
+<param name="Розмір" paramid="38645" valueid="59600">
+<![CDATA[ 42 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+<article>c-3</article>
+</offer>
+<offer id="533305524" available="true">
+<price>1000000</price>
+<currencyId>UAH</currencyId>
+<categoryId>4625421</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/597722434.webp</picture>
+<name>тест сінксорсу вендора</name>
+<name_ua>тест сінксорсу вендора</name_ua>
+<vendor>LG</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;опис тестового товарру де перевіряється вибірка сінксорсу&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt; [/html]&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;опис тестового товарру де перевіряється вибірка сінксорсу&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt; [/html]&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантія" paramid="20769" valueid="1798960">
+<![CDATA[ 33 месяца ]]>
+</param>
+<param name="Матеріал" paramid="116114" valueid="4303375">
+<![CDATA[ Металл ]]>
+</param>
+<param name="Тип монтажу" paramid="169614" valueid="1598534">
+<![CDATA[ Встраиваемые ]]>
+</param>
+<param name="Об'єм повітря в приміщенні" paramid="169694">
+<![CDATA[ 15 ]]>
+</param>
+<param name="Вага в упаковці" paramid="48739">
+<![CDATA[ 50 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+</param>
+<stock_quantity>5</stock_quantity>
+<article>12213234</article>
+</offer>
+<offer id="570886807" available="true">
+<price>1000000</price>
+<currencyId>UAH</currencyId>
+<categoryId>4632124</categoryId>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648363261.webp</picture>
+<name>Наліпки для найменш. Їжачок + Кошеня + Машинка</name>
+<name_ua>Наліпки для найменш. Їжачок + Кошеня + Машинка</name_ua>
+<vendor/>
+<price_old>2000000</price_old>
+<state>new</state>
+<description>
+<![CDATA[ [html]&amp;lt;p&amp;gt;Эти замечательные наклейки с веселыми изображениями ёжика, котёнка и машинки разработаны специально для детей. Они подарят много радости и удовольствия во время игры.&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Качественная печать обеспечивает яркие и четкие цвета.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Безопасные для детей материалы.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Легко снимаются без остатка клея.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Технические характеристики:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Материал: Винил или другой безопасный пластик.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Размер: Различные размеры для каждого дизайна.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Водостойкость: Да.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Комплектация:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;1 наклейка с ёжиком&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;1 наклейка с котёнком&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;1 наклейка с машинкой&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;Состояние: Новый.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Выберите эти наклейки для вашего ребенка, чтобы обеспечить отличное развлечение и украсить повседневные предметы.&amp;lt;/p&amp;gt;[/html] ]]>
+</description>
+<description_ua>
+<![CDATA[ [html]&amp;lt;p&amp;gt;Ці красиві наліпки з веселими зображеннями їжачка, кошеняти та машинки створені спеціально для дітей. Вони подарують багато радості та задоволення під час гри.&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Якість друку гарантує яскраві і чіткі кольори.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Безпечні для дітей матеріали.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Легко знімаються без залишку клею.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Технічні характеристики:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Матеріал: Вініл або інший безпечний пластик.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Розмір: Різні розміри для кожного дизайну.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Водостійкість: Так.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Комплектація:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;1 наліпка з їжачком&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;1 наліпка з кошеням&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;1 наліпка з машинкою&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;Стан товару: Новий.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Виберіть ці наліпки для вашої дитини, щоб забезпечити чудову розвагу та прикрасити повсякденні предмети.&amp;lt;/p&amp;gt;[/html] ]]>
+</description_ua>
+<param name="Вид" paramid="22826" valueid="223180">
+<![CDATA[ Наборы наклеек ]]>
+</param>
+<param name="Гарантія" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1000000</stock_quantity>
+<promo_price>500000</promo_price>
+<min_cart_quantity>10000</min_cart_quantity>
+<max_cart_quantity>10000</max_cart_quantity>
+</offer>
+<offer id="auto_6904b8960dd57" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80002</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/617531289.jpg</picture>
+<name>непролізе</name>
+<name_ua>пролізе</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;українською&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;українською&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантия" paramid="20769" valueid="2667717">
+<![CDATA[ 1 месяц от производителя, 1 месяц от продавца ]]>
+</param>
+<param name="Объектив" paramid="20814">
+<![CDATA[ &lt;p&gt;українською&lt;/p&gt; ]]>
+</param>
+<param name="Матрица (светочувствительный элемент)" paramid="20813">
+<![CDATA[ &lt;p&gt;українською&lt;/p&gt; ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="555184626" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/614570394.webp</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/614570411.webp</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/614570418.jpg</picture>
+<name>Назва товару 99</name>
+<name_ua>Назва товару 99</name_ua>
+<vendor>Sony</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Зум" paramid="20779">
+<![CDATA[ Оптичний: 3.05x ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="12333444" available="true">
+<price>768</price>
+<currencyId>UAH</currencyId>
+<categoryId>4674585</categoryId>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/636614317.webp</picture>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/636614318.webp</picture>
+<name>Зарядна станція Bluetti AC2A 300 Вт 204.8 Вт⋅год LiFePO4</name>
+<name_ua>Зарядна станція Bluetti AC2A 300 Вт 204.8 Вт⋅год LiFePO4</name_ua>
+<vendor>Bluetti</vendor>
+<price_old>138000</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;&lt;span&gt;&lt;span&gt;Портативна зарядна станція BLUETTI AC2A Portable Power Station - це компактний пристрій, призначений для зарядки різних електронних пристроїв у подорожах або в ситуаціях відсутності електромережі. З її допомогою можна живити невеликі пристрої, такі як смартфони, планшети, ноутбуки, а також навіть невеликі електроприлади, такі як лампи чи вентилятори.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;BLUETTI AC2A Portable Power Station, з ємністю 204.8 Вт*год, неперервною вихідною потужністю 300 Вт і максимальною потужністю до 600 Вт, важить лише 3.6 кг. Це ідеальний вибір для кемпінгу, автоподорожей, відпочинку на природі та інших подібних ситуацій.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;&lt;span&gt;&lt;span&gt;Портативна зарядна станція BLUETTI AC2A Portable Power Station - це компактний пристрій, призначений для зарядки різних електронних пристроїв у подорожах або в ситуаціях відсутності електромережі. З її допомогою можна живити невеликі пристрої, такі як смартфони, планшети, ноутбуки, а також навіть невеликі електроприлади, такі як лампи чи вентилятори.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;BLUETTI AC2A Portable Power Station, з ємністю 204.8 Вт*год, неперервною вихідною потужністю 300 Вт і максимальною потужністю до 600 Вт, важить лише 3.6 кг. Це ідеальний вибір для кемпінгу, автоподорожей, відпочинку на природі та інших подібних ситуацій.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантия" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Вес" paramid="34284">
+<![CDATA[ 5кг ]]>
+</param>
+<param name="Тип аккумуляторов" paramid="34324" valueid="4366344">
+<![CDATA[ Литий-железо-фосфатные (LiFePO4) ]]>
+</param>
+<param name="Цвет" paramid="34329" valueid="42459">
+<![CDATA[ Черный ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+<article>12356</article>
+<max_cart_quantity>2</max_cart_quantity>
+</offer>
+<offer id="555184614" available="true">
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/648270901.jpg</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648270902.jpg</picture>
+<name>Назва товару22</name>
+<name_ua>Назва товару22</name_ua>
+<vendor>Sony</vendor>
+<price_old>1001</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантия" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>22</stock_quantity>
+<promo_price>999</promo_price>
+</offer>
+<offer id="auto_68d67de28bc36" available="true">
+<price>1</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/603324476.png</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/603324478.png</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/603324482.png</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/603324485.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/603324488.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/603324492.webp</picture>
+<name>Тест 260902</name>
+<name_ua>Тест 260902</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;Недостаточно информации для описания товара.&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;Недостатньо інформації для опису товару.&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантия" paramid="20769" valueid="12228">
+<![CDATA[ 5 лет ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="553653633" available="true">
+<price>2121224</price>
+<currencyId>UAH</currencyId>
+<categoryId>4628488</categoryId>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/648310051.jpg</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648310052.jpg</picture>
+<name>Меблі</name>
+<name_ua>Меблі</name_ua>
+<vendor>HENGJI</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Вага в упаковці" paramid="48739">
+<![CDATA[ 1233 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+</param>
+<stock_quantity>1212</stock_quantity>
+</offer>
+<offer id="auto_6940276650337" available="true">
+<price>768</price>
+<currencyId>UAH</currencyId>
+<categoryId>4629129</categoryId>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/634094935.png</picture>
+<name>тест</name>
+<name_ua>тест</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Материал корпуса" paramid="203982" valueid="4862834">
+<![CDATA[ Бамбук ]]>
+</param>
+<param name="Материал обивки" paramid="110475" valueid="2408292">
+<![CDATA[ Искуственная кожа ]]>
+</param>
+<param name="Гарантия" paramid="20769" valueid="2667717">
+<![CDATA[ 1 месяц от производителя, 1 месяц от продавца ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+<article>орпорп</article>
+</offer>
+<offer id="auto_68d14788888da" available="true">
+<price>1</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/601773704.png</picture>
+<name>Тест прод 220901</name>
+<name_ua>Тест прод 220901</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантия" paramid="20769" valueid="824528">
+<![CDATA[ 1 месяц гарантии от продавца ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="12312312131" available="true">
+<price>768</price>
+<currencyId>UAH</currencyId>
+<categoryId>4629129</categoryId>
+<picture>https://images.prom.ua/2200067711_nozh-neskladnoj-grand.jpg</picture>
+<name>тест імпорту товарів</name>
+<name_ua>тест імпорту товарів</name_ua>
+<vendor>огризок</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ тестовий опис ]]>
+</description>
+<description_ua>
+<![CDATA[ тестовий опис ]]>
+</description_ua>
+<stock_quantity>1</stock_quantity>
+<article>12312312131</article>
+</offer>
+<offer id="auto_68a466a8bab2f" available="true">
+<price>2350</price>
+<currencyId>UAH</currencyId>
+<categoryId>4634945</categoryId>
+<picture>https://footballpro-store.com.ua/content/images/38/butsy-air-zoom-mercurial-vapor-16-elite-fg-mbappe-89693786014488_ 4847624f03.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/38/butsy-air-zoom-mercurial-vapor-16-elite-fg-mbappe-86131961340849_ e9c5368bf7.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/38/butsy-air-zoom-mercurial-vapor-16-elite-fg-mbappe-58294294237848_ d06589784c.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/38/butsy-air-zoom-mercurial-vapor-16-elite-fg-mbappe-45455169093588_ 914fd0de6f.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/38/butsy-air-zoom-mercurial-vapor-16-elite-fg-mbappe-38878124192178_ 8829b77474.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/38/butsy-air-zoom-mercurial-vapor-16-elite-fg-mbappe-53587128915562_ 05c4907879.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/38/butsy-air-zoom-mercurial-vapor-16-elite-fg-mbappe-62334802497158_ b7e9bfe97b.png</picture>
+<name>Бутси Air Zoom Mercurial Vapor 16 Elite 42 FG Mbappe Фіолетовий</name>
+<name_ua>Бутси Air Zoom Mercurial Vapor 16 Elite 42 FG Mbappe Фіолетовий</name_ua>
+<vendor>Без бренду</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ Бутси Air Zoom Mercurial Vapor 16 Elite FG Mbappé Швидкість, народжена легендою. Air Zoom Mercurial Vapor 16 Elite FG Mbappé Edition — це не просто бутси, а втілення вибухової динаміки, стилю та сили Кіліана Мбаппе. Створені для гравців, які не зупиняються ні перед чим і завжди прагнуть більшого. Особливості моделі: Технологія Zoom Air в підошві забезпечує пружну амортизацію та вибухове прискорення. Ультралегкий верх Vaporposite+ повторює форму стопи та дарує повний контроль над м’ячем. Підошва Tri-Star дає відмінне зчеплення для різких ривків і миттєвих поворотів. Унікальний дизайн із деталями, натхненними стилем та шляхом Мбаппе. Це бутси для справжніх бомбардирів. Для тих, хто, як і Кіліан, грає швидше за всіх. ]]>
+</description>
+<description_ua>
+<![CDATA[ Бутси Air Zoom Mercurial Vapor 16 Elite FG Mbappé Швидкість, народжена легендою. Air Zoom Mercurial Vapor 16 Elite FG Mbappé Edition — це не просто бутси, а втілення вибухової динаміки, стилю та сили Кіліана Мбаппе. Створені для гравців, які не зупиняються ні перед чим і завжди прагнуть більшого. Особливості моделі: Технологія Zoom Air в підошві забезпечує пружну амортизацію та вибухове прискорення. Ультралегкий верх Vaporposite+ повторює форму стопи та дарує повний контроль над м’ячем. Підошва Tri-Star дає відмінне зчеплення для різких ривків і миттєвих поворотів. Унікальний дизайн із деталями, натхненними стилем та шляхом Мбаппе. Це бутси для справжніх бомбардирів. Для тих, хто, як і Кіліан, грає швидше за всіх. ]]>
+</description_ua>
+<param name="Колір" paramid="38580" valueid="57715">
+<![CDATA[ Фіолетовий ]]>
+</param>
+<param name="Матеріал верху" paramid="38625">
+<![CDATA[ Штучні матеріали ]]>
+</param>
+<param name="Матеріал підошви" paramid="38635" valueid="127097">
+<![CDATA[ Пластик ]]>
+</param>
+<param name="Розмір" paramid="38645" valueid="59600">
+<![CDATA[ 42 ]]>
+</param>
+<param name="Сезон" paramid="39560" valueid="63315">
+<![CDATA[ Демисезонный ]]>
+</param>
+<param name="Призначення" paramid="131552" valueid="1139111">
+<![CDATA[ Для футбола ]]>
+</param>
+<param name="Артикул моделі" paramid="256977">
+<![CDATA[ С-4 ]]>
+</param>
+<param name="Тип бутс" paramid="256539" valueid="4622184">
+<![CDATA[ Шиповки ]]>
+</param>
+<stock_quantity>3</stock_quantity>
+<article>c-4</article>
+</offer>
+<offer id="533305529" available="true">
+<price>599999</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/587104694.webp</picture>
+<name>test ru change 22</name>
+<name_ua>тест гарний change</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;p&amp;gt;опис товару&amp;lt;/p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ тестовый текст юа юа юа ]]>
+</description_ua>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 3 месяца ]]>
+</param>
+<param name="РК-монітор" paramid="20792">
+<![CDATA[ test area ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+</param>
+<stock_quantity>3</stock_quantity>
+<article>111111111</article>
+</offer>
+<offer id="auto_6953df95382d4" available="true">
+<price>10</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>http://site.com/img1.png</picture>
+<picture>http://site.com/img2.png</picture>
+<name>Фотоапарат тест value pictures 5</name>
+<name_ua>Фотоапарат тест value pictures 5</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;h5&gt;&lt;span&gt;&lt;span&gt;Опис українською&lt;/span&gt;&lt;/span&gt;&lt;/h5&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;h5&gt;&lt;span&gt;&lt;span&gt;Опис українською&lt;/span&gt;&lt;/span&gt;&lt;/h5&gt; ]]>
+</description_ua>
+<param name="Гарантия" paramid="20769" valueid="6174">
+<![CDATA[ 3 месяца ]]>
+</param>
+<param name="Матрица фотоаппарата" paramid="20776">
+<![CDATA[ &lt;h3&gt;&lt;span&gt;&lt;span&gt;Матриця фотоапарата&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt; ]]>
+</param>
+<stock_quantity>2</stock_quantity>
+</offer>
+<offer id="570880321" available="true">
+<price>20</price>
+<currencyId>UAH</currencyId>
+<categoryId>4632124</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/646616131.jpg</picture>
+<name>Наліпки для найменш. Їжачок + Кошеня + Машинка32</name>
+<name_ua>Наліпки для найменш. Їжачок + Кошеня + Машинка12</name_ua>
+<vendor/>
+<price_old>130</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;p&amp;gt;Наклейки для самых маленьких — это замечательный способ для вашего ребёнка проявить свою креативность и украсить любые поверхности. С милыми изображениями ежика, котёнка и машинки, эти наклейки обязательно станут любимыми аксессуарами вашего ребёнка.&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Развивают воображение и креативность&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Безопасны для детей&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Яркие цвета и увлекательный дизайн&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Легко приклеиваются и снимаются&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Технические характеристики:&amp;lt;/h3&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Материал: высококачественный винил&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Количеcтво наклеек: 3 шт&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Возраст: от 3 лет&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Комплектация:&amp;lt;/h3&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Наклейки (3 шт): ёжик, котёнок, машинка&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;Товар новый, никогда не использовался.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Прекрасный вариант для детских игр на любой день. Надёжность и практичность гарантированы!&amp;lt;/p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;p&amp;gt;Наліпки для найменш є фантастичним способом для вашої дитини висловити свою творчість та прикрасити будь-які поверхні. З милими малюнками їжачка, кошеняти, і машинки, ці наліпки обов&#039;язково стануть улюбленими аксесуарами для вашої дитини.&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Розвивають уяву та творчість&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Безпечні для дітей&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Яскраві кольори і захоплюючий дизайн&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Легко наклеюються та знімаються&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Технічні характеристики:&amp;lt;/h3&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Матеріал: високо якісний вініл&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Кількість наліпок: 3 шт&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Вік: від 3 років&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Комплектація:&amp;lt;/h3&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Наліпки (3 шт): їжачок, кошеня, машинка&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;Товар новий, ніколи не використовувався.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Прекрасний варіант для дитячих ігор на будь-який день. Надійність і практичність гарантовані!&amp;lt;/p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description_ua>
+<param name="Вид" paramid="22826" valueid="223180">
+<![CDATA[ Наборы наклеек ]]>
+</param>
+<param name="Гарантія" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>96</stock_quantity>
+<promo_price>90</promo_price>
+</offer>
+<offer id="auto_696763b966099" available="true">
+<price>2</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/644094116.png</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/644094119.png</picture>
+<name>тест</name>
+<name_ua>тест</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Матрица фотоаппарата" paramid="20776">
+<![CDATA[ &lt;p&gt;ав&lt;/p&gt; ]]>
+</param>
+<stock_quantity>34</stock_quantity>
+<article>7657657</article>
+</offer>
+<offer id="123123AF" available="true">
+<price>999</price>
+<currencyId>UAH</currencyId>
+<categoryId>80007</categoryId>
+<picture>http://site.com/picture1.jpg</picture>
+<picture>http://site.com/picture2.jpg</picture>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/645865449.jpg</picture>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/645865450.jpg</picture>
+<name>Телефон</name>
+<name_ua>Телефон</name_ua>
+<vendor/>
+<price_old>1200</price_old>
+<state>new</state>
+<description>
+<![CDATA[ Опис товару ]]>
+</description>
+<description_ua>
+<![CDATA[ Опис товару (українською) ]]>
+</description_ua>
+<param name="Вес в упаковке" paramid="48739">
+<![CDATA[ 10 ]]>
+</param>
+<stock_quantity>10</stock_quantity>
+<promo_price>777</promo_price>
+<article>ERTY23423dg4</article>
+<min_cart_quantity>2</min_cart_quantity>
+<max_cart_quantity>10</max_cart_quantity>
+</offer>
+<offer id="554439861" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/613153749.jpg</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/613153759.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/613153767.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/613153773.webp</picture>
+<name>Тестинг фото 3</name>
+<name_ua>Тестинг фото 3</name_ua>
+<vendor>Sony</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 дней ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="555184623" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/614547656.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614547662.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/614547664.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/614547667.webp</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/614547670.jpg</picture>
+<name>Назва товару 88</name>
+<name_ua>Назва товару 88</name_ua>
+<vendor>Sony</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="auto_695b8d62888a0" available="true">
+<price>9999</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/640560810.png</picture>
+<name>Тест додатку</name>
+<name_ua>Тест додатку</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;Тест додатку&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;Тест додатку&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантия" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="555352989" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>305219</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614894133.webp</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614894140.webp</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/614894152.webp</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/614894156.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/614894169.jpg</picture>
+<picture>https://content2.rozetka.com.ua/goods/images/original/614894185.jpg</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/614894205.jpg</picture>
+<name>Противоударный чехол с поворотной подставкой и ремешком на Samsung Galaxy Tab S10 FE+ 5G SM-X626 / Wi-Fi SM-X620 / 13.1" 2025 / Противоударный чехол с поворотной подставкой и ремешком на Samsung Galaxy Tab S10 FE+ 5G SM-X626 / Wi-Fi SM-X620 / 13.1" 2025</name>
+<name_ua>Протиударний чохол з обертальною підставкою та ремінцем на Samsung Galaxy Tab S10 FE+ 5G SM-X626 / Wi-Fi SM-X620 / 13.1" 2025 / Протиударний чохол з обертальною підставкою та ремінцем на Samsung Galaxy Tab S10 FE+ 5G SM-X626 / Wi-Fi SM-X620 / 13.1" 2025</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;p&amp;gt;️ &amp;lt;strong&amp;gt;Противоударный чехол для Samsung Galaxy Tab S10 FE+ Plus 13.1&amp;quot; 2025 – максимум защиты и удобства&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Надежный чехол, который выдержит активный ритм жизни ребенка или взрослого. Идеальный вариант для дома, учебы и путешествий.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;⸻&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;✅ &amp;lt;strong&amp;gt;Основные преимущества:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Трехслойная защита&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Прочная конструкция из силикона и пластика надежно защищает планшет от ударов и падений.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Поворотная подставка 360°&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Удобная подставка позволяет устанавливать планшет вертикально и горизонтально — для видео, игр и обучения.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Регулируемый плечевой ремешок&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Носите планшет с собой — дома, в дороге, на прогулке. Идеально для детей.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Плотная фиксация&amp;lt;/strong&amp;gt; — планшет не болтается внутри.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Полный доступ&amp;lt;/strong&amp;gt; ко всем кнопкам, портам и камере.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;⸻&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Обратите внимание!&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;• Чехол не содержит защитную пленку или стекло на экран!&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;⸻&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;️ &amp;lt;strong&amp;gt;Подходит только для &amp;lt;/strong&amp;gt;Samsung Galaxy Tab S10 FE+ Plus 13.1&amp;quot; дюймов 2025г.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Модели:&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;5G (SM-X626)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Wi-Fi (SM-X620)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Протиударний чохол для Samsung Galaxy Tab S10 FE+ Plus 13.1&amp;quot; дюймів 2025 – максимум захисту та зручності&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Надійний чохол, який витримає активний ритм життя дитини чи дорослого. Ідеальний варіант для дому, навчання або подорожей.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;⸻&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;✅ &amp;lt;strong&amp;gt;Основні переваги:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Три шари захисту&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Міцна конструкція з силікону та жорсткого пластику надійно захищає планшет при падіннях та ударах.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Обертальна підставка на 360°&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Зручна регульована підставка дозволяє розташовувати планшет вертикально або горизонтально. Комфорт для навчання, перегляду відео, ігор.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Регульований плечовий ремінь&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Перенось планшет зручно вдома, в авто або на прогулянці. Ідеальний варіант для дітей і подорожей.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Надійна фіксація&amp;lt;/strong&amp;gt; по периметру — планшет не “гуляє” всередині.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Вільний доступ&amp;lt;/strong&amp;gt; до всіх роз’ємів, кнопок і камери.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;⸻&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Зверніть увагу:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;• &amp;lt;strong&amp;gt;Чохол не має захисного скла або плівки на екран в комплекті !&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;⸻&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;️ &amp;lt;strong&amp;gt;Підходить лише для &amp;lt;/strong&amp;gt;Samsung Galaxy Tab S10 FE+ Plus 13.1&amp;quot; дюймів 2025р.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Моделі:&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;5G (SM-X626)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Wi-Fi (SM-X620)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description_ua>
+<param name="Вид" paramid="28350" valueid="1780047">
+<![CDATA[ Бамперы ]]>
+</param>
+<param name="Гарантія" paramid="20769" valueid="4716995">
+<![CDATA[ 14 дней, обмен/возврат товара ]]>
+</param>
+<param name="Матеріал" paramid="28351" valueid="797730">
+<![CDATA[ Силикон + пластик ]]>
+</param>
+<param name="Колір" paramid="28354" valueid="4684748">
+<![CDATA[ Black Rose ]]>
+</param>
+<param name="Країна-виробник товару" paramid="98900" valueid="544331">
+<![CDATA[ Китай ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="558894051" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>4660433</categoryId>
+<picture>https://content2.rozetka.com.ua/goods/images/original/621239039.jpg</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/621239054.jpg</picture>
+<name>Триммер Blaupunkt HCS502 (AGDBLPC013)</name>
+<name_ua>Тример Blaupunkt HCS502 (AGDBLPC013)</name_ua>
+<vendor>Blaupunkt</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ Триммер Blaupunkt HCS502 – это высококачественный триммер для ухода за бородой, усами и волосами, что обеспечивает точность и комфорт в использовании. Оснащенный острыми лезвиями из нержавеющей стали, он гарантирует чистую и безопасную подстригу без раздражений. Благодаря эргономичному дизайну устройство удобно лежит в руке, обеспечивая легкий доступ к труднодоступным местам. Он имеет несколько насадок для разных длин волос, что позволяет создавать стильные образы в соответствии с вашими потребностями. Встроенный аккумулятор обеспечивает длительную автономную работу, компактный размер делает его идеальным для использования дома или в дороге. Триммер Blaupunkt HCS502 – это идеальное решение для современных мужчин, ценящих качество и стиль. ]]>
+</description>
+<description_ua>
+<![CDATA[ Тример Blaupunkt HCS502 – це високоякісний тример для догляду за бородою, вусами та волоссям, що забезпечує точність та комфорт у використанні. Оснащений гострими лезами з нержавіючої сталі, він гарантує чисте і безпечне підстригання без подразнень. Завдяки ергономічному дизайну пристрій зручно лежить у руці, забезпечуючи легкий доступ до важкодоступних місць. Він має кілька насадок для різних довжин волосся, що дозволяє створювати стильні образи відповідно до ваших потреб. Вбудований акумулятор забезпечує тривалу автономну роботу, а компактний розмір робить його ідеальним для використання вдома або в дорозі. Тример Blaupunkt HCS502 – це ідеальне рішення для сучасних чоловіків, які цінують якість та стиль. ]]>
+</description_ua>
+<param name="Код виробника" paramid="21784">
+<![CDATA[ AGDBLPC013 ]]>
+</param>
+<param name="EAN" paramid="26294">
+<![CDATA[ 5901750507243 ]]>
+</param>
+<param name="Код УКТ ЗЕД" paramid="82508">
+<![CDATA[ 8510200000 ]]>
+</param>
+<param name="Комплектація" paramid="222538">
+<![CDATA[ Триммер Blaupunkt HCS502&lt;br /&gt;3 насадки&lt;br /&gt;Защитный колпачок&lt;br /&gt;Масло для лезвий&lt;br /&gt;Щетка для чистки&lt;br /&gt;Зарядное устройство&lt;br /&gt;Инструкция ]]>
+</param>
+<param name="Вага в упаковці">
+<![CDATA[ 0.4 ]]>
+</param>
+<param name="Глибина в упаковці (см)" paramid="72944">
+<![CDATA[ 15 ]]>
+</param>
+<param name="Ширина в упаковці (см)" paramid="72949">
+<![CDATA[ 15 ]]>
+</param>
+<param name="Висота в упаковці (см)" paramid="72950">
+<![CDATA[ 25 ]]>
+</param>
+<param name="Час зарядки акумулятора" paramid="222524">
+<![CDATA[ 90 ]]>
+</param>
+<param name="Час автономної роботи" paramid="222531">
+<![CDATA[ 45 ]]>
+</param>
+<param name="Вага" paramid="222559">
+<![CDATA[ 0.18 ]]>
+</param>
+<param name="Гарантія" paramid="20769" valueid="6170">
+<![CDATA[ 24 месяца ]]>
+</param>
+<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Країна реєстрації бренда" paramid="87790" valueid="428980">
+<![CDATA[ Германия ]]>
+</param>
+<param name="Країна-виробник товару" paramid="98900" valueid="619924">
+<![CDATA[ Германия ]]>
+</param>
+<param name="Зона використання" paramid="222426">
+<![CDATA[ Для бороды и усов, Для головы ]]>
+</param>
+<param name="Живлення" paramid="222440" valueid="3138983">
+<![CDATA[ Аккумулятор ]]>
+</param>
+<param name="Тип акумулятора" paramid="222447" valueid="3140117">
+<![CDATA[ Li-Ion ]]>
+</param>
+<param name="Матеріал лез" paramid="222454" valueid="3448747">
+<![CDATA[ Нержавеющая сталь ]]>
+</param>
+<param name="Особливості" paramid="222468">
+<![CDATA[ Влажная очистка, С индикатором заряда ]]>
+</param>
+<param name="Тип установки довжини" paramid="222475" valueid="3139165">
+<![CDATA[ Съёмные насадки ]]>
+</param>
+<param name="Тип керування" paramid="222496" valueid="3139193">
+<![CDATA[ Кнопочное ]]>
+</param>
+<param name="Колір" paramid="222573" valueid="3141657">
+<![CDATA[ Черный с серебристым ]]>
+</param>
+<param name="Кількість установок довжини стрижки" paramid="222622" valueid="3147607">
+<![CDATA[ 4 ]]>
+</param>
+<param name="Кількість насадок в комплекті" paramid="222629" valueid="3147509">
+<![CDATA[ 3 ]]>
+</param>
+<param name="Сфера використання" paramid="225241" valueid="3265849">
+<![CDATA[ Бытовые ]]>
+</param>
+<param name="EAN">
+<![CDATA[ 5901750507243 ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+<article>AGDBLPC013</article>
+</offer>
+<offer id="auto_697088884fb41" available="true">
+<price>70000</price>
+<currencyId>UAH</currencyId>
+<categoryId>80003</categoryId>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648369575.jpg</picture>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/648369576.webp</picture>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/648369577.webp</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648369578.webp</picture>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/648369579.webp</picture>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/648369580.webp</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648369581.webp</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648369582.webp</picture>
+<name>Мобільний телефон Apple iPhone 17 Pro Max 256GB12</name>
+<name_ua>Мобільний телефон Apple iPhone 17 Pro Max 256GB12</name_ua>
+<vendor/>
+<price_old>75000</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;Apple iPhone 17 Pro Max 256GB — это новейшая модель в линейке iPhone, впечатляющая своей мощностью и технологическим развитием. Идеальный выбор для тех, кто хочет иметь самое современное устройство с широким функционалом.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Ключевые преимущества:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Новейшая технология обработки данных от Apple&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Яркий и четкий дисплей с высоким разрешением&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Большой объём встроенной памяти 256GB для хранения всех важных данных&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Улучшенная камера для съёмок в профессиональном качестве&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Энергоэффективность и длительный заряд аккумулятора&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Технические характеристики:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Объём памяти: 256GB&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Операционная система: iOS&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Тип дисплея: OLED&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Мощность процессора: A17 Bionic&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Основная камера: система с несколькими объективами&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Емкость аккумулятора: улучшенная продолжительность работы&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Комплектация:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;iPhone 17 Pro Max&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Зарядный кабель&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Инструкция пользователя&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Состояние товара:&lt;/strong&gt; Новый.&lt;br /&gt;&lt;br /&gt;Apple iPhone 17 Pro Max 256GB отличается надёжностью, отличной функциональностью и длительным сроком службы, делая его незаменимым в вашей повседневной жизни.&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;Apple iPhone 17 Pro Max 256GB — це найновіша модель у лінійці iPhone, яка вражає своєю потужністю та технологічним розвитком. Ідеальний вибір для тих, хто прагне мати найсучасніший пристрій з широким функціоналом.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Ключові переваги:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Найновіша технологія обробки даних від Apple&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Яскравий і чіткий дисплей з високою роздільною здатністю&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Великий об&#039;єм вбудованої пам&#039;яті 256GB для зберігання всіх важливих даних&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Поліпшена камера для зйомок у професійній якості&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Технічні характеристики:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Об&#039;єм пам&#039;яті: 256GB&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Операційна система: iOS&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Тип дисплея: OLED&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Потужність процесора: A17 Bionic&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Основна камера: система з кількома об&#039;єктивами&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ємність акумулятора: покращена тривалість роботи&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Комплектація:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;iPhone 17 Pro Max&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Зарядний кабель&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Інструкція користувача&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Стан товару:&lt;/strong&gt; Новий.&lt;br /&gt;&lt;br /&gt;Apple iPhone 17 Pro Max 256GB відзначається надійністю, чудовою функціональністю та довгим терміном служби, роблячи його незамінним у вашому щоденному житті.&lt;/p&gt; ]]>
+</description_ua>
+<param name="Операционная система" paramid="20856" valueid="246">
+<![CDATA[ iOS ]]>
+</param>
+<param name="Гарантия" paramid="20769" valueid="6174">
+<![CDATA[ 3 месяца ]]>
+</param>
+<param name="Награды" paramid="20859" valueid="222">
+<![CDATA[ ДПК Лучшая Покупка №1/2010 ]]>
+</param>
+<param name="Цвет" paramid="21716" valueid="5172004">
+<![CDATA[ Orange Flare ]]>
+</param>
+<param name="Частота процессора" paramid="23351" valueid="4286851">
+<![CDATA[ 1 x 2.9 + 3 x 2.8 + 4 x 2.2 ]]>
+</param>
+<param name="Количество мегапикселей основной камеры" paramid="20850" valueid="1150079">
+<![CDATA[ 12 + 5 ]]>
+</param>
+<param name="Разъемы" paramid="23472" valueid="12137">
+<![CDATA[ Micro-USB ]]>
+</param>
+<stock_quantity>10</stock_quantity>
+<promo_price>69500</promo_price>
+<min_cart_quantity>1</min_cart_quantity>
+<max_cart_quantity>10</max_cart_quantity>
+</offer>
+<offer id="auto_68a466a8b1d7f" available="true">
+<price>2450</price>
+<currencyId>UAH</currencyId>
+<categoryId>4634945</categoryId>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-47251829873866_ ddbc6b4549.jpg</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-47251829873866_ ddbc6b4549.jpg</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-25414273283815_ 9ad99a87ba.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-25414273283815_ 9ad99a87ba.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-35614886433926_ d835234dac.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-35614886433926_ d835234dac.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-26923776206307_ 1d08f617fb.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-26923776206307_ 1d08f617fb.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-33818325470353_ 4d23076ac2.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-33818325470353_ 4d23076ac2.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-59706237432438_ e6fb8dd352.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-59706237432438_ e6fb8dd352.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-72141960621854_ e4680b1dae.png</picture>
+<picture>https://footballpro-store.com.ua/content/images/24/butsy-phantom-gx2-elite-z-mishechkom-72141960621854_ e4680b1dae.png</picture>
+<name>Бутси Phantom GX2 Elite 40 з мішечком Сіро-Салатовий</name>
+<name_ua>Бутси Phantom GX2 Elite 40 з мішечком Сіро-Салатовий</name_ua>
+<vendor>Без бренду</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ Бутси Phantom GX2 Elite FG з мішком Відкрий для себе світ абсолютного контролю та точності з бутсами Phantom GX2 Elite FG — професійною моделлю, створеною для гравців, які керують грою на найвищому рівні. Ця пара поєднує інновації та комфорт: Технологія Gripknit забезпечує точне торкання м’яча та покращений контроль за будь-якого руху. Верх Flyknit та анатомічна посадка створюють ефект «другої шкіри», підтримуючи стопу в ключових зонах. Фірмова підошва Tri-Star гарантує стабільне зчеплення на натуральних газонах, дозволяючи здійснювати різкі ривки та маневри. У комплекті — фірмовий мішок для бутс, зручний для тренувань і матчів. Ідеальний вибір для тих, хто керує грою. Phantom GX2 Elite — ти диктуєш темп матчу. ]]>
+</description>
+<description_ua>
+<![CDATA[ Бутси Phantom GX2 Elite FG з мішком Відкрий для себе світ абсолютного контролю та точності з бутсами Phantom GX2 Elite FG — професійною моделлю, створеною для гравців, які керують грою на найвищому рівні. Ця пара поєднує інновації та комфорт: Технологія Gripknit забезпечує точне торкання м’яча та покращений контроль за будь-якого руху. Верх Flyknit та анатомічна посадка створюють ефект «другої шкіри», підтримуючи стопу в ключових зонах. Фірмова підошва Tri-Star гарантує стабільне зчеплення на натуральних газонах, дозволяючи здійснювати різкі ривки та маневри. У комплекті — фірмовий мішок для бутс, зручний для тренувань і матчів. Ідеальний вибір для тих, хто керує грою. Phantom GX2 Elite — ти диктуєш темп матчу. ]]>
+</description_ua>
+<param name="Колір" paramid="38580">
+<![CDATA[ Сірий;Салатовий ]]>
+</param>
+<param name="Матеріал верху" paramid="38625">
+<![CDATA[ Штучні матеріали ]]>
+</param>
+<param name="Матеріал підошви" paramid="38635" valueid="127097">
+<![CDATA[ Пластик ]]>
+</param>
+<param name="Розмір" paramid="38645" valueid="59580">
+<![CDATA[ 40 ]]>
+</param>
+<param name="Сезон" paramid="39560" valueid="63315">
+<![CDATA[ Демисезонный ]]>
+</param>
+<param name="Призначення" paramid="131552" valueid="1139111">
+<![CDATA[ Для футбола ]]>
+</param>
+<param name="Артикул моделі" paramid="256977">
+<![CDATA[ С-1 ]]>
+</param>
+<param name="Тип бутс" paramid="256539" valueid="4622184">
+<![CDATA[ Шиповки ]]>
+</param>
+<stock_quantity>3</stock_quantity>
+<article>c-1</article>
+</offer>
+<offer id="535511429" available="true">
+<price>12</price>
+<currencyId>UAH</currencyId>
+<categoryId>80002</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/587104695.jpg</picture>
+<name>тест</name>
+<name_ua>тест</name_ua>
+<vendor>Pentax</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія">
+<![CDATA[ 33 месяца ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>3</stock_quantity>
+</offer>
+<offer id="554439162" available="true">
+<price>1222222</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/613160168.jpg</picture>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/613160169.webp</picture>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/613160170.webp</picture>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/613160171.webp</picture>
+<name>Тестинг фото2</name>
+<name_ua>Тестинг фото2</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="541346565" available="true">
+<price>15001</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/595054483.jpg</picture>
+<name>Тест картка редагування ексель</name>
+<name_ua>Тест картка редагування ексель</name_ua>
+<vendor>Sony</vendor>
+<price_old>19000</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;[html]&amp;lt;p&amp;gt;Тест картки редагування опис&amp;lt;/p&amp;gt;[/html]&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+</param>
+<stock_quantity>1</stock_quantity>
+</offer>
+<offer id="555184620" available="true">
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content2.rozetka.com.ua/gomer_content/gomer_items_files/original/648266692.webp</picture>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/648266693.jpg</picture>
+<name>Назва товару11</name>
+<name_ua>Назва товару11</name_ua>
+<vendor>Sony</vendor>
+<price_old>1001</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантия" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>10</stock_quantity>
+<promo_price>999</promo_price>
+</offer>
+<offer id="554413152" available="true">
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/613041733.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/613041740.webp</picture>
+<name>Назва супер</name>
+<name_ua>Назва супер</name_ua>
+<vendor>Sony</vendor>
+<price_old>1001</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>10</stock_quantity>
+<promo_price>999</promo_price>
+</offer>
+<offer id="553653636" available="true">
+<price>12444</price>
+<currencyId>UAH</currencyId>
+<categoryId>4628488</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/611752871.jpg</picture>
+<name>Меблі</name>
+<name_ua>Меблі</name_ua>
+<vendor>HENGJI</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Вага в упаковці" paramid="48739">
+<![CDATA[ 1233 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+</param>
+<stock_quantity>1233</stock_quantity>
+</offer>
+<offer id="554407356" available="true">
+<price>10000</price>
+<currencyId>UAH</currencyId>
+<categoryId>80001</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/612982995.webp</picture>
+<picture>https://content.rozetka.com.ua/goods/images/original/612983017.webp</picture>
+<picture>https://content1.rozetka.com.ua/goods/images/original/612983025.webp</picture>
+<name>Назва товару33</name>
+<name_ua>Назва товару33</name_ua>
+<vendor>Sony</vendor>
+<price_old>1001</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Гарантія" paramid="20769">
+<![CDATA[ 12 месяцев ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Якщо ви хочете створити власне налаштування або налаштування на окрему категорію/групу товарів, то перейдіть до відповідної вкладки. Тут ви маєте можливість: ]]>
+</value>
+</param>
+<stock_quantity>10</stock_quantity>
+<promo_price>999</promo_price>
+</offer>
+<offer id="536978209" available="true">
+<price>5555555</price>
+<currencyId>UAH</currencyId>
+<categoryId>1461212</categoryId>
+<picture>https://content.rozetka.com.ua/goods/images/original/587104704.jpg</picture>
+<name>т</name>
+<name_ua>тт</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<param name="Вид корма" paramid="52767" valueid="809028">
+<![CDATA[ Влажный корм ]]>
+</param>
+<param name="Класс корма" paramid="52772" valueid="123552">
+<![CDATA[ Эконом ]]>
+</param>
+<param name="Тип влажного корма" paramid="253242" valueid="4339533">
+<![CDATA[ Желе ]]>
+</param>
+<param name="Вес 1 шт" paramid="52877" valueid="1394432">
+<![CDATA[ 1 кг ]]>
+</param>
+<param name="Количество предметов" paramid="92802" valueid="475520">
+<![CDATA[ 1 ]]>
+</param>
+<param name="Гарантия" paramid="20769" valueid="6179">
+<![CDATA[ 1 месяц ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) ]]>
+</value>
+</param>
+<stock_quantity>3</stock_quantity>
+</offer>
+<offer id="auto_695e20c218d5c" available="true">
+<price>10</price>
+<currencyId>UAH</currencyId>
+<categoryId>4674585</categoryId>
+<picture>https://content.rozetka.com.ua/gomer_content/gomer_items_files/original/641830280.jpg</picture>
+<name>Зарядная станция Bluetti AC300 + дополнительная батарея B300K2 / 3000 Вт / 2764.8 Вт⋅ч / LiFePO4 (3000W AC300+B300K2) (COPY)</name>
+<name_ua>Зарядна станція Bluetti AC300 + додаткова батарея B300K2 / 3000 Вт / 2764.8 Вт⋅год / LiFePO4 (3000W AC300+B300K2) (COPY)</name_ua>
+<vendor/>
+<price_old>0</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;&lt;strong&gt;Чистый синусоидальный инвертор мощностью 3000 Вт&lt;br /&gt;&lt;/strong&gt;Оснащён чистым синусоидальным инвертором мощностью 3000 Вт и возможностью регулировки скорости зарядки от сети переменного тока (блок питания не требуется — достаточно одного зарядного кабеля). Система питания &lt;strong&gt;AC300&lt;/strong&gt; также может заряжаться с мощностью от 1800 Вт до 3000 Вт через настенные розетки в соответствии с вашими потребностями.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Дополнительная батарея Bluetti B300K2, 2764.8 Вт⋅ч&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Bluetti B300K2&lt;/strong&gt; — это мощная дополнительная батарея, разработанная для обеспечения надёжного электропитания как в повседневном использовании, так и в условиях аварийных отключений. Благодаря высокой ёмкости и длительному жизненному циклу она станет идеальным дополнением к вашей электростанции или автономной энергосистеме.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Автомобильная батарея LiFePO4&lt;br /&gt;&lt;/strong&gt;Батарея &lt;strong&gt;Bluetti B300K2&lt;/strong&gt; использует передовую технологию литий-железо-фосфатных аккумуляторов (LiFePO4), которая гарантирует долговечность и безопасность эксплуатации. Она выдерживает более 4000 жизненных циклов, что значительно превышает ресурс традиционных батарей. Благодаря этому вы получаете стабильный и надёжный источник энергии на долгие годы, который также отличается высоким уровнем защиты от перегрева и перезаряда.&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;&lt;strong&gt;Чистий синусоїдальний інвертор потужністю 3000 Вт&lt;br /&gt;&lt;/strong&gt;Оснащений чистим синусоїдальним інвертором потужністю 3000 Вт та можливістю регулювання швидкості заряджання змінного струму (блок живлення не потрібен, достатньо одного зарядного кабелю). Система живлення &lt;strong&gt;AC300&lt;/strong&gt; також може заряджатися потужністю від 1800 Вт до 3000 Вт через настінні розетки відповідно до ваших потреб.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Додаткова батарея Bluetti B300K2, 2764.8 Вт⋅год&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Bluetti B300K2 &lt;/strong&gt;— це потужна додаткова батарея, розроблена для забезпечення надійного енергоживлення як у повсякденному використанні, так і в умовах аварійних відключень. Завдяки великій ємності та довготривалому життєвому циклу, вона стане ідеальним доповненням до вашої електростанції або автономної енергосистеми.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Автомобільна батарея LiFePO4&lt;br /&gt;&lt;/strong&gt;Батарея &lt;strong&gt;Bluetti B300K2 &lt;/strong&gt;використовує передову технологію літій-залізо-фосфатних акумуляторів (LiFePO4), яка гарантує довговічність і безпеку експлуатації. Вона витримує понад 4000 життєвих циклів, що значно перевищує ресурс традиційних батарей. Завдяки цьому ви отримуєте стабільне та надійне джерело енергії на довгі роки, яке також відзначається високим рівнем захисту від перегріву та перезаряду.&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантия" paramid="20769" valueid="213882">
+<![CDATA[ 48 месяцев ]]>
+</param>
+<param name="Вес" paramid="34284">
+<![CDATA[ Зарядная станция + дополнительная батарея: 51.1 ]]>
+</param>
+<param name="Тип аккумуляторов" paramid="34324" valueid="4366344">
+<![CDATA[ Литий-железо-фосфатные (LiFePO4) ]]>
+</param>
+<param name="Цвет" paramid="34329" valueid="300792">
+<![CDATA[ Серо-черный ]]>
+</param>
+<param name="EAN" paramid="26294">
+<![CDATA[ 2070684040010 ]]>
+</param>
+<param name="Размеры" paramid="34334">
+<![CDATA[ Зарядная станция Bluetti AC300: 520x320x385 мм&lt;br /&gt;Дополнительная батарея Bluetti B300K2: 525x327x209 мм ]]>
+</param>
+<param name="Комплектация" paramid="40854">
+<![CDATA[ &lt;p&gt;Зарядная станция&lt;br /&gt;Дополнительная батарея&lt;br /&gt;Многофункциональный кабель постоянного тока&lt;br /&gt;Автомобильный зарядный кабель&lt;/p&gt; ]]>
+</param>
+<param name="Код УКТ ВЭД" paramid="82508">
+<![CDATA[ 8507600000 ]]>
+</param>
+<param name="Материал корпуса" paramid="229861">
+<![CDATA[ ABS-пластик ]]>
+</param>
+<param name="Время зарядки от сети" paramid="253962">
+<![CDATA[ От розетки: 4.5 часов ]]>
+</param>
+<param name="Характеристики разъемов" paramid="253965">
+<![CDATA[ &lt;p&gt;Выход USB-A: 2x15 Вт, 2x18 Вт&lt;br /&gt;Выход USB-C: 1x100 Вт&lt;br /&gt;Беспроводная зарядка: 2х15 Вт&lt;br /&gt;Автомобильная розетка (выход): 1x24 В/10A&lt;/p&gt; ]]>
+</param>
+<param name="Рабочая температура" paramid="253968">
+<![CDATA[ от -20 до +40 ]]>
+</param>
+<param name="Время зарядки от солнечной панели" paramid="257729">
+<![CDATA[ 1.5 часа ]]>
+</param>
+<param name="Циклов зарядки станции" paramid="257732">
+<![CDATA[ 4000 ]]>
+</param>
+<param name="Вес в упаковке" paramid="48739">
+<![CDATA[ 58 ]]>
+</param>
+<param name="Глубина в упаковке (см)" paramid="72944">
+<![CDATA[ 51 ]]>
+</param>
+<param name="Ширина в упаковке (см)" paramid="72949">
+<![CDATA[ 64 ]]>
+</param>
+<param name="Высота в упаковке (см)" paramid="72950">
+<![CDATA[ 70.5 ]]>
+</param>
+<param name="Емкость батареи" paramid="39970" valueid="2582575">
+<![CDATA[ 54000 ]]>
+</param>
+<param name="Заряжается от" paramid="40204">
+<![CDATA[ Зарядка от автомобиля,Зарядка от солнечной панели,От сети ]]>
+</param>
+<param name="Назначение" paramid="40239">
+<![CDATA[ Для всего дома,Для котлов,Для ноутбуков,Для персональных компьютеров,Для роутеров,Для телевизоров ]]>
+</param>
+<param name="Особенности" paramid="48980">
+<![CDATA[ Беспроводная зарядка устройств,С ручкой,Функция ИБП (UPS) ]]>
+</param>
+<param name="Количество грузовых мест" paramid="72961" valueid="311781">
+<![CDATA[ 3 ]]>
+</param>
+<param name="Страна регистрации бренда" paramid="87790" valueid="429016">
+<![CDATA[ США ]]>
+</param>
+<param name="Страна-производитель товара" paramid="98900" valueid="544331">
+<![CDATA[ Китай ]]>
+</param>
+<param name="Функции зарядки" paramid="99726">
+<![CDATA[ Power Delivery,PowerIQ,Стандартная ]]>
+</param>
+<param name="Выходное напряжение" paramid="215422" valueid="2723144;2723158;2743278;2743292;4350000;4359423">
+<![CDATA[ 5,12,15,20,24,230 ]]>
+</param>
+<param name="Индикация" paramid="215436">
+<![CDATA[ С дисплеем,С индикатором уровня заряда ]]>
+</param>
+<param name="Одновременно заряжаемых устройств" paramid="215443" valueid="4346103">
+<![CDATA[ 14 ]]>
+</param>
+<param name="Выходные интерфейсы" paramid="215450" valueid="2723291;2723298;4385592;4740878">
+<![CDATA[ USB Type A,USB Type C,Гнездо прикуривателя,Розетка 220 В ]]>
+</param>
+<param name="Входные интерфейсы" paramid="215457" valueid="4608819">
+<![CDATA[ AC-разъем ]]>
+</param>
+<param name="Защита от" paramid="229885">
+<![CDATA[ Избыточного напряжения на входе,Избыточного напряжения на выходе,Короткого замыкания,Обратного тока,Перегрева,Перегрузки,Перезарядки,Пониженного напряжения,Чрезмерной разрядки ]]>
+</param>
+<param name="Емкость зарядной станции" paramid="253977" valueid="4815279">
+<![CDATA[ 2764.8 ]]>
+</param>
+<param name="Выходная мощность (общая)" paramid="253980" valueid="4386018">
+<![CDATA[ 3000 ]]>
+</param>
+<param name="Максимальная мощность устройств" paramid="253983" valueid="4518576">
+<![CDATA[ 6000 ]]>
+</param>
+<param name="Тип (версия) розеток" paramid="257573" valueid="4716800">
+<![CDATA[ Европейская ]]>
+</param>
+<param name="Количество портов USB Type A" paramid="257717" valueid="4740809">
+<![CDATA[ 4 ]]>
+</param>
+<param name="Количество портов USB Type С" paramid="257720" valueid="4740821">
+<![CDATA[ 2 ]]>
+</param>
+<param name="Количество розеток" paramid="257723" valueid="4741481">
+<![CDATA[ 6 ]]>
+</param>
+<param name="Форма выходного сигнала" paramid="257726" valueid="4740890">
+<![CDATA[ Чистая синусоида ]]>
+</param>
+<stock_quantity>10</stock_quantity>
+<article>3000W AC300+B300K2</article>
+</offer>
+<offer id="533305519" available="true">
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>4625011</categoryId>
+<picture>https://content1.rozetka.com.ua/goods/images/original/645293593.jpg</picture>
+<name>тест</name>
+<name_ua>тест211</name_ua>
+<vendor>LoveYouHome</vendor>
+<price_old>120</price_old>
+<state>new</state>
+<description>
+<![CDATA[ ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;Тут буде красивий опис на дуже багато слів щоб показати крутість цього товару. А поки немає такого тексту - ми перевіримо як працює переклад опису.&lt;/p&gt; ]]>
+</description_ua>
+<param name="Вага в упаковці" paramid="48739">
+<![CDATA[ 2 ]]>
+</param>
+<param name="Доставка/Оплата">
+<value lang="ru">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+<value lang="uk">
+<![CDATA[ Набір дерев&#039;яних меблевих гачків для одягу ø35–150мм Ясен (6 шт) (50026) (COPY) ]]>
+</value>
+</param>
+<stock_quantity>14</stock_quantity>
+<article>533305519</article>
+</offer>
+<offer id="auto_696f8d94ba22f" available="true">
+<price>70000</price>
+<currencyId>UAH</currencyId>
+<categoryId>80003</categoryId>
+<picture>https://content1.rozetka.com.ua/gomer_content/gomer_items_files/original/646404906.jpg</picture>
+<name>Мобільний телефон Apple iPhone 17 Pro Max 256GB Cosmic Orange</name>
+<name_ua>Мобільний телефон Apple iPhone 17 Pro Max 256GB Cosmic Orange</name_ua>
+<vendor>Apple</vendor>
+<price_old>75000</price_old>
+<state>new</state>
+<description>
+<![CDATA[ &lt;p&gt;Представляем новинку от Apple - iPhone 17 Pro Max в уникальном цвете Cosmic Orange. Этот мобильный телефон сочетает передовые технологии, стильный дизайн и высокую производительность, что делает его идеальным выбором для самых требовательных пользователей.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Революционная камера с улучшенной светочувствительностью и расширенным фокусом для создания потрясающих снимков.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Мощный процессор обеспечивает быструю работу и поддержку новых функций iOS.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Эксклюзивный дизайн из высококачественных материалов, снаружи и внутри.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Технические характеристики:&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Память: 256GB&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Процессор: Новейший бионический чип Apple&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Дисплей: Супер Retina XDR&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Камеры: Тройная камера с улучшенным ночным режимом&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Батарея: Улучшенная автономность для длительного использования&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Комплектация:&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;iPhone 17 Pro Max&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Зарядное устройство&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Кабель USB-C на Lightning&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Документация&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Состояние товара: &lt;strong&gt;Новый&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Выберите iPhone 17 Pro Max для надежного и практичного использования с эстетическим удовольствием.&lt;/p&gt; ]]>
+</description>
+<description_ua>
+<![CDATA[ &lt;p&gt;Представляємо новинку від Apple - iPhone 17 Pro Max в унікальному кольорі Cosmic Orange. Цей мобільний телефон поєднує в собі передові технології, стильний дизайн і високу продуктивність, що робить його ідеальним вибором для найвимогливіших користувачів.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Революційна камера з покращеною світлочутливістю та розширеним фокусуванням для створення приголомшливих знімків.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Потужний процесор забезпечує швидку роботу та підтримку нових функцій iOS.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ексклюзивний дизайн з високоякісних матеріалів, ззовні і всередині.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Технічні характеристики:&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Пам&#039;ять: 256GB&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Процесор: Новітній бионічний чіп Apple&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Екран: Супер Retina XDR дисплей&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Камери: Трипл камера з вдосконаленим нічним режимом&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Батарея: покращена автономність для тривалого користування&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Комплектація:&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;iPhone 17 Pro Max&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Зарядний пристрій&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Кабель USB-C до Lightning&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Документація&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Стан товару: &lt;strong&gt;Новий&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Виберіть iPhone 17 Pro Max для надійного та практичного використання з естетичним задоволенням.&lt;/p&gt; ]]>
+</description_ua>
+<param name="Гарантия" paramid="20769" valueid="6174">
+<![CDATA[ 3 месяца ]]>
+</param>
+<param name="Награды" paramid="20859" valueid="204">
+<![CDATA[ CHIP Лучший продукт №08/2009 ]]>
+</param>
+<param name="Цвет" paramid="21716" valueid="4454004">
+<![CDATA[ Altay Blue ]]>
+</param>
+<param name="Количество SIM-карт" paramid="23017" valueid="5180805">
+<![CDATA[ 2 x e-SIM ]]>
+</param>
+<param name="Частота процессора" paramid="23351" valueid="4551828">
+<![CDATA[ 1 x 2.5 + 3 x 2.2 + 4 x 1.9 ]]>
+</param>
+<param name="Максимальный объем поддерживаемой карты памяти" paramid="23388" valueid="1967830">
+<![CDATA[ 1024 ]]>
+</param>
+<stock_quantity>10</stock_quantity>
+<promo_price>69500</promo_price>
+<min_cart_quantity>1</min_cart_quantity>
+<max_cart_quantity>10</max_cart_quantity>
+</offer>
+</offers>
+</shop>
 </yml_catalog>
-
-
-
