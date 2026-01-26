@@ -19,10 +19,860 @@
             <category id="4625274">Сканери штрих-кодів</category>
         </categories>
         <offers>
-            
+           {
+    "count": 61,
+    "items": [
+        {
+            "id": 160365651,
+            "sync_source_id": 43483,
+            "name": "Наліпки для найменш. Їжачок + Кошеня + Машинка",
+            "rz_status": 0,
+            "price": 1000000,
+            "rz_item_id": 570886807,
+            "rz_sell_status": 6,
+            "price_offer_id": "570886807",
+            "price_old": 2000000,
+            "price_promo": 500000,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": 10000,
+            "min_cart_quantity": 10000,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 9,
+            "available": 1,
+            "vendor": null,
+            "sync_source_category_id": 6331500,
+            "sync_source_vendors_id": null,
+            "price_category_id": "4632124",
+            "sla_id": 122253,
+            "stock_quantity": 1000000,
+            "rz_created_date": "2026-01-21 11:30:32",
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": "",
+            "state": 1,
+            "sync_source_series_id": null,
+            "picture_upload_status": 1,
+            "docket": null,
+            "category": {
+                "id": 4632124,
+                "title": "Наклейки, стикеры, тату",
+                "title_ua": "Наклейки, стикери, тату",
+                "min_price": null,
+                "max_price": null
+            },
+            "producer": null,
+            "series": null,
+            "itemUa": {
+                "item_id": 160365651,
+                "name": "Наліпки для найменш. Їжачок + Кошеня + Машинка",
+                "docket": ""
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [
+                {
+                    "item_id": 160365651,
+                    "reason_id": 151
+                }
+            ],
+            "prices": [],
+            "name_ua": "Наліпки для найменш. Їжачок + Кошеня + Машинка",
+            "sync_source_vendor": null,
+            "sync_source_series": null,
+            "price_category": {
+                "id": "4632124",
+                "title": "Наклейки, стикери, тат"
+            },
+            "article": "",
+            "bpm_number": [
+                3775638,
+                3796297
+            ],
+            "stop_words": []
+        },
+        {
+            "id": 160365584,
+            "sync_source_id": 43483,
+            "name": "Наліпки для найменш. Їжачок + Кошеня + Машинка32",
+            "rz_status": 3,
+            "price": 20,
+            "rz_item_id": 570880321,
+            "rz_sell_status": 6,
+            "price_offer_id": "570880321",
+            "price_old": 130,
+            "price_promo": 90,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": null,
+            "min_cart_quantity": null,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 1,
+            "available": 1,
+            "vendor": null,
+            "sync_source_category_id": 6331500,
+            "sync_source_vendors_id": null,
+            "price_category_id": "4632124",
+            "sla_id": 122253,
+            "stock_quantity": 96,
+            "rz_created_date": "2026-01-21 11:17:55",
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": "",
+            "state": 1,
+            "sync_source_series_id": null,
+            "picture_upload_status": 1,
+            "docket": null,
+            "category": {
+                "id": 4632124,
+                "title": "Наклейки, стикеры, тату",
+                "title_ua": "Наклейки, стикери, тату",
+                "min_price": null,
+                "max_price": null
+            },
+            "producer": null,
+            "series": null,
+            "itemUa": {
+                "item_id": 160365584,
+                "name": "Наліпки для найменш. Їжачок + Кошеня + Машинка12",
+                "docket": ""
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [
+                {
+                    "item_id": 160365584,
+                    "reason_id": 113
+                }
+            ],
+            "prices": [],
+            "name_ua": "Наліпки для найменш. Їжачок + Кошеня + Машинка12",
+            "sync_source_vendor": null,
+            "sync_source_series": null,
+            "price_category": {
+                "id": "4632124",
+                "title": "Наклейки, стикери, тат"
+            },
+            "article": "",
+            "bpm_number": [
+                3775638
+            ],
+            "stop_words": []
+        },
+        {
+            "id": 160365011,
+            "sync_source_id": 43483,
+            "name": "Мобільний телефон Apple iPhone 17 Pro Max 256GB12",
+            "rz_status": null,
+            "price": 70000,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "auto_697088884fb41",
+            "price_old": 75000,
+            "price_promo": 69500,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": 10,
+            "min_cart_quantity": 1,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 1,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 0,
+            "available": 1,
+            "vendor": "Apple",
+            "sync_source_category_id": 5851208,
+            "sync_source_vendors_id": 19588945,
+            "price_category_id": "80003",
+            "sla_id": 40,
+            "stock_quantity": 10,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": 1402701,
+            "picture_upload_status": 0,
+            "docket": null,
+            "category": {
+                "id": 80003,
+                "title": "Мобильные телефоны",
+                "title_ua": "Мобільні телефони",
+                "min_price": 50,
+                "max_price": 399999
+            },
+            "producer": {
+                "id": 69,
+                "title": "Apple"
+            },
+            "series": {
+                "id": 312124,
+                "title": "iPhone 17 Pro Max"
+            },
+            "itemUa": {
+                "item_id": 160365011,
+                "name": "Мобільний телефон Apple iPhone 17 Pro Max 256GB12",
+                "docket": null
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "Мобільний телефон Apple iPhone 17 Pro Max 256GB12",
+            "sync_source_vendor": {
+                "id": 19588945,
+                "title": "Apple",
+                "is_binded": 1,
+                "bind_type": 1
+            },
+            "sync_source_series": "iPhone 17 Pro Max",
+            "price_category": {
+                "id": "80003",
+                "title": "Мобильные телефоны"
+            },
+            "article": "",
+            "bpm_number": [],
+            "stop_words": []
+        },
+        {
+            "id": 160336339,
+            "sync_source_id": 43483,
+            "name": "Мобільний телефон Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+            "rz_status": null,
+            "price": 70000,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "auto_696f8d94ba22f",
+            "price_old": 75000,
+            "price_promo": 69500,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": 10,
+            "min_cart_quantity": 1,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 1,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 0,
+            "available": 1,
+            "vendor": "Apple",
+            "sync_source_category_id": 5851208,
+            "sync_source_vendors_id": 19588945,
+            "price_category_id": "80003",
+            "sla_id": 40,
+            "stock_quantity": 10,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": 1402701,
+            "picture_upload_status": 0,
+            "docket": null,
+            "category": {
+                "id": 80003,
+                "title": "Мобильные телефоны",
+                "title_ua": "Мобільні телефони",
+                "min_price": 50,
+                "max_price": 399999
+            },
+            "producer": {
+                "id": 69,
+                "title": "Apple"
+            },
+            "series": {
+                "id": 312124,
+                "title": "iPhone 17 Pro Max"
+            },
+            "itemUa": {
+                "item_id": 160336339,
+                "name": "Мобільний телефон Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+                "docket": null
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "Мобільний телефон Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+            "sync_source_vendor": {
+                "id": 19588945,
+                "title": "Apple",
+                "is_binded": 1,
+                "bind_type": 1
+            },
+            "sync_source_series": "iPhone 17 Pro Max",
+            "price_category": {
+                "id": "80003",
+                "title": "Мобильные телефоны"
+            },
+            "article": "",
+            "bpm_number": [],
+            "stop_words": []
+        },
+        {
+            "id": 160275827,
+            "sync_source_id": 43483,
+            "name": "тест (COPY)",
+            "rz_status": null,
+            "price": 12,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "auto_696f6d6ec1372",
+            "price_old": null,
+            "price_promo": null,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": null,
+            "min_cart_quantity": null,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 0,
+            "available": 1,
+            "vendor": "LoveYouHome",
+            "sync_source_category_id": 5813770,
+            "sync_source_vendors_id": 19438579,
+            "price_category_id": "80001",
+            "sla_id": 40,
+            "stock_quantity": 12,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": null,
+            "picture_upload_status": 0,
+            "docket": null,
+            "category": {
+                "id": 80001,
+                "title": "Фотоаппараты",
+                "title_ua": "Фотоапарати",
+                "min_price": 50,
+                "max_price": 399999
+            },
+            "producer": {
+                "id": 685287,
+                "title": "LoveYouHome"
+            },
+            "series": null,
+            "itemUa": {
+                "item_id": 160275827,
+                "name": "тест (COPY)",
+                "docket": null
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "тест (COPY)",
+            "sync_source_vendor": {
+                "id": 19438579,
+                "title": "LoveYouHome",
+                "is_binded": 1,
+                "bind_type": 1
+            },
+            "sync_source_series": null,
+            "price_category": {
+                "id": "80001",
+                "title": "Фотоапарати"
+            },
+            "article": "876876",
+            "bpm_number": [],
+            "stop_words": []
+        },
+        {
+            "id": 160180663,
+            "sync_source_id": 43483,
+            "name": "Телефон",
+            "rz_status": null,
+            "price": 999,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "123123AF",
+            "price_old": 1200,
+            "price_promo": 777,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": 10,
+            "min_cart_quantity": 2,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 8,
+            "available": 1,
+            "vendor": "ASUS",
+            "sync_source_category_id": 5953459,
+            "sync_source_vendors_id": 19482603,
+            "price_category_id": "80007",
+            "sla_id": 40,
+            "stock_quantity": 10,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": 1401730,
+            "picture_upload_status": 0,
+            "docket": null,
+            "category": {
+                "id": 80007,
+                "title": "МФУ/Принтеры",
+                "title_ua": "БФП/Принтери",
+                "min_price": 50,
+                "max_price": 399999
+            },
+            "producer": {
+                "id": 4,
+                "title": "ASUS"
+            },
+            "series": null,
+            "itemUa": {
+                "item_id": 160180663,
+                "name": "Телефон",
+                "docket": null
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "Телефон",
+            "sync_source_vendor": {
+                "id": 19482603,
+                "title": "ASUS",
+                "is_binded": 1,
+                "bind_type": 1
+            },
+            "sync_source_series": "test",
+            "price_category": {
+                "id": "80007",
+                "title": "МФУ/Принтеры"
+            },
+            "article": "ERTY23423dg4",
+            "bpm_number": [
+                3775638
+            ],
+            "stop_words": []
+        },
+        {
+            "id": 159926472,
+            "sync_source_id": 43483,
+            "name": "тест",
+            "rz_status": null,
+            "price": 2,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "auto_696763b966099",
+            "price_old": null,
+            "price_promo": null,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": null,
+            "min_cart_quantity": null,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 0,
+            "available": 1,
+            "vendor": "LoveYouHome",
+            "sync_source_category_id": 5813770,
+            "sync_source_vendors_id": 19438579,
+            "price_category_id": "80001",
+            "sla_id": 40,
+            "stock_quantity": 34,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": null,
+            "picture_upload_status": 0,
+            "docket": null,
+            "category": {
+                "id": 80001,
+                "title": "Фотоаппараты",
+                "title_ua": "Фотоапарати",
+                "min_price": 50,
+                "max_price": 399999
+            },
+            "producer": {
+                "id": 685287,
+                "title": "LoveYouHome"
+            },
+            "series": null,
+            "itemUa": {
+                "item_id": 159926472,
+                "name": "тест",
+                "docket": null
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "тест",
+            "sync_source_vendor": {
+                "id": 19438579,
+                "title": "LoveYouHome",
+                "is_binded": 1,
+                "bind_type": 1
+            },
+            "sync_source_series": null,
+            "price_category": {
+                "id": "80001",
+                "title": "Фотоапарати"
+            },
+            "article": "7657657",
+            "bpm_number": [],
+            "stop_words": []
+        },
+        {
+            "id": 159324230,
+            "sync_source_id": 43483,
+            "name": "якась тестовар назва товару бо закінчились варіанти",
+            "rz_status": null,
+            "price": 129,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "43OT563",
+            "price_old": 135,
+            "price_promo": 100,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": null,
+            "min_cart_quantity": null,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 0,
+            "available": 1,
+            "vendor": "ще якийсь бренд",
+            "sync_source_category_id": 5919058,
+            "sync_source_vendors_id": 19577679,
+            "price_category_id": "85432",
+            "sla_id": 40,
+            "stock_quantity": 20,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": null,
+            "picture_upload_status": 0,
+            "docket": "дуже короткий",
+            "category": {
+                "id": 85432,
+                "title": "Фонари и аксессуары",
+                "title_ua": "Ліхтарі й аксесуари",
+                "min_price": 20,
+                "max_price": 399999
+            },
+            "producer": null,
+            "series": null,
+            "itemUa": {
+                "item_id": 159324230,
+                "name": "шось типу тесту адейту товару",
+                "docket": "дуже короткий"
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "шось типу тесту адейту товару",
+            "sync_source_vendor": {
+                "id": 19577679,
+                "title": "ще якийсь бренд",
+                "is_binded": 0,
+                "bind_type": 0
+            },
+            "sync_source_series": null,
+            "price_category": {
+                "id": "85432",
+                "title": "Ліхтарі й аксесуари"
+            },
+            "article": "43OT563",
+            "bpm_number": [],
+            "stop_words": []
+        },
+        {
+            "id": 159324229,
+            "sync_source_id": 43483,
+            "name": "Перевірка чи не випадуть в видалення прайсу після правки з апдейтом шось не так",
+            "rz_status": null,
+            "price": 122,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "12342LD",
+            "price_old": null,
+            "price_promo": null,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": null,
+            "min_cart_quantity": null,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 0,
+            "available": 1,
+            "vendor": "сумний бренд",
+            "sync_source_category_id": 5919058,
+            "sync_source_vendors_id": 19577680,
+            "price_category_id": "85432",
+            "sla_id": 40,
+            "stock_quantity": 15,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": null,
+            "picture_upload_status": 0,
+            "docket": "шорт дескріптіон",
+            "category": {
+                "id": 85432,
+                "title": "Фонари и аксессуары",
+                "title_ua": "Ліхтарі й аксесуари",
+                "min_price": 20,
+                "max_price": 399999
+            },
+            "producer": null,
+            "series": null,
+            "itemUa": {
+                "item_id": 159324229,
+                "name": "Перевірка чи не випадуть в видалення прайсу після правки з апдейтом шось не так",
+                "docket": "шорт дескріптіон"
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "Перевірка чи не випадуть в видалення прайсу після правки з апдейтом шось не так",
+            "sync_source_vendor": {
+                "id": 19577680,
+                "title": "сумний бренд",
+                "is_binded": 0,
+                "bind_type": 0
+            },
+            "sync_source_series": null,
+            "price_category": {
+                "id": "85432",
+                "title": "Ліхтарі й аксесуари"
+            },
+            "article": "12342LD",
+            "bpm_number": [],
+            "stop_words": []
+        },
+        {
+            "id": 159324228,
+            "sync_source_id": 43483,
+            "name": "якась тестовар назва товару при апдейті",
+            "rz_status": null,
+            "price": 125,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "63562OE",
+            "price_old": null,
+            "price_promo": null,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": null,
+            "min_cart_quantity": null,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 0,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 0,
+            "available": 1,
+            "vendor": "ще якийсь бренд",
+            "sync_source_category_id": 5919058,
+            "sync_source_vendors_id": 19577679,
+            "price_category_id": "85432",
+            "sla_id": 40,
+            "stock_quantity": 12,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": null,
+            "picture_upload_status": 0,
+            "docket": "не дуже короткий",
+            "category": {
+                "id": 85432,
+                "title": "Фонари и аксессуары",
+                "title_ua": "Ліхтарі й аксесуари",
+                "min_price": 20,
+                "max_price": 399999
+            },
+            "producer": null,
+            "series": null,
+            "itemUa": {
+                "item_id": 159324228,
+                "name": "якась тестовар назва товару",
+                "docket": "не дуже короткий"
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "якась тестовар назва товару",
+            "sync_source_vendor": {
+                "id": 19577679,
+                "title": "ще якийсь бренд",
+                "is_binded": 0,
+                "bind_type": 0
+            },
+            "sync_source_series": null,
+            "price_category": {
+                "id": "85432",
+                "title": "Ліхтарі й аксесуари"
+            },
+            "article": "63562OE",
+            "bpm_number": [],
+            "stop_words": []
+        },
+        {
+            "id": 159311109,
+            "sync_source_id": 43483,
+            "name": "Зарядная станция Bluetti AC300 + дополнительная батарея B300K2 / 3000 Вт / 2764.8 Вт⋅ч / LiFePO4 (3000W AC300+B300K2) (COPY)",
+            "rz_status": null,
+            "price": 10,
+            "rz_item_id": null,
+            "rz_sell_status": null,
+            "price_offer_id": "auto_695e20c218d5c",
+            "price_old": null,
+            "price_promo": null,
+            "promo_reason": null,
+            "is_promo_sent": 0,
+            "max_cart_quantity": null,
+            "min_cart_quantity": null,
+            "duplicate_mark": false,
+            "is_blocked_by_stop_brands": 0,
+            "is_blocked_by_stop_categories": 1,
+            "is_blocked_by_stop_words": 0,
+            "is_blocked_by_stop_attributes": 0,
+            "upload_status": 0,
+            "available": 1,
+            "vendor": "Bluetti",
+            "sync_source_category_id": 6273670,
+            "sync_source_vendors_id": 19564974,
+            "price_category_id": "4674585",
+            "sla_id": 40,
+            "stock_quantity": 10,
+            "rz_created_date": null,
+            "is_ff": false,
+            "rz_group_id": null,
+            "comment": null,
+            "state": 1,
+            "sync_source_series_id": null,
+            "picture_upload_status": 0,
+            "docket": null,
+            "category": {
+                "id": 4674585,
+                "title": "Зарядные станции",
+                "title_ua": "Зарядні станції",
+                "min_price": null,
+                "max_price": null
+            },
+            "producer": {
+                "id": 651178,
+                "title": "Bluetti"
+            },
+            "series": null,
+            "itemUa": {
+                "item_id": 159311109,
+                "name": "Зарядна станція Bluetti AC300 + додаткова батарея B300K2 / 3000 Вт / 2764.8 Вт⋅год / LiFePO4 (3000W AC300+B300K2) (COPY)",
+                "docket": null
+            },
+            "syncSource": {
+                "id": 43483,
+                "availability": 4,
+                "is_virtual_source": 3,
+                "new_flow_old_price": 0
+            },
+            "currentReasons": [],
+            "prices": [],
+            "name_ua": "Зарядна станція Bluetti AC300 + додаткова батарея B300K2 / 3000 Вт / 2764.8 Вт⋅год / LiFePO4 (3000W AC300+B300K2) (COPY)",
+            "sync_source_vendor": {
+                "id": 19564974,
+                "title": "Bluetti",
+                "is_binded": 1,
+                "bind_type": 1
+            },
+            "sync_source_series": null,
+            "price_category": {
+                "id": "4674585",
+                "title": "Зарядные станции"
+            },
+            "article": "3000W AC300+B300K2",
+            "bpm_number": [],
+            "stop_words": []
+        },
+    ],
+} 
         </offers>
     </shop>
 
 </yml_catalog>
+
 
 
