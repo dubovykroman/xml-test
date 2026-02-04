@@ -55,12 +55,12 @@
                 <article>2</article>
                 <vendor></vendor>
                 <description>
-                    <![CDATA[<p>Тестовое описание тестового товара 12345</p>]]>
+                    <![CDATA[<p>Тестовое описание тестового товара1324565</p>]]>
                 </description>
                 <description_ua>
-                    <![CDATA[<p>Тестовое описание тестового товара</p>]]>
+                    <![CDATA[<p>Тестовое описание тестового товара1324565</p>]]>
                 </description_ua>
-                <param name="Объем, л" paramid="245163" valueid="3925778">3.1 - 5</param>
+                <param name="Объем, л" paramid="245163" valueid="3925778">8</param>
             </offer>
             <offer id="49453191" available="true">
                 <price>150.00</price>
@@ -98,7 +98,7 @@
                 <param name="Размер" paramid="42899" >
                     <![CDATA[25]]>
                 </param>
-<!--                <param name="Марка автомобиля" paramid="129818" valueid="973983,973990,973997,974004,974011,974018,974025,974032,974046,974053,974060,974081,974095,974102,974109,974116,974123,974130,974137,974144,974151,974158,974165,974172,974179,974186,974200,974207,974214,974221,974270,974382,974459,2339212,2339218,2732636,4688987">Audi,BMW,Cadillac,Chery,Chevrolet,Chrysler,Citroen,Daewoo,Dodge,Fiat,Ford,Honda,Hyundai,Infinity,Jeep,Kia,Land Rover,Lexus,Mazda,Mercedes,Mitsubishi,Nissan,Opel,Peugeot,Porsche,Renault,Skoda,Suzuki,Toyota,Volkswagen,Dacia,Mini,Volvo,Tesla,Богдан,Все марки,Mustang</param>-->
+                <param name="Марка автомобиля" paramid="129818" valueid="973983,973990,973997,974004,974011,974018,974025,974032,974046,974053,974060,974081,974095,974102,974109,974116,974123,974130,974137,974144,974151,974158,974165,974172,974179,974186,974200,974207,974214,974221,974270,974382,974459,2339212,2339218,2732636,4688987">Audi,BMW,Cadillac,Chery,Chevrolet,Chrysler,Citroen,Daewoo,Dodge,Fiat,Ford,Honda,Hyundai,Infinity,Jeep,Kia,Land Rover,Lexus,Mazda,Mercedes,Mitsubishi,Nissan,Opel,Peugeot,Porsche,Renault,Skoda,Suzuki,Toyota,Volkswagen,Dacia,Mini,Volvo,Tesla,Богдан,Все марки,Mustang</param>-->
                 <param name="  Страна регистрации бренда@" paramid="87790" valueid="429058">Украина</param>
                 <param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
                 <param name="Тип" paramid="42894" valueid="815636">Сенсор для растений</param>
@@ -574,3 +574,4 @@
     </shop>
 
 </yml_catalog>
+
