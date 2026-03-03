@@ -5,8 +5,6 @@
         <company>Marketplace ROZETKA.UA</company>
         <currencies>
             <currency id="UAH" rate="1.00" />
-            <currency id="USD" rate="37.00" />
-            <currency id="EUR" rate="38.00" />
         </currencies>
         <categories>
             <category id="4625337">POS-монітори</category>
@@ -21,20 +19,20 @@
         <offers>
             <offer id="1" available="true">
                 <price>15000.00</price>
-                <price_promo>100</price_promo>
+                <price_promo>13999</price_promo>
                 <stock_quantity>25</stock_quantity>
                 <currencyId>USD</currencyId>
                 <categoryId>245547</categoryId>
                 <picture>https://images.ua.prom.st/AURpf9m9EQbxO_Zf25KPRU0nVsq8qSHN-lTzLiZyyYc=/1870112785_podves-iz-serebra.jpg</picture>
-                <name>Вазон тестовый</name>
-                <name_ua>вазон тестовий</name_ua>
+                <name>Вазон тестовый новий для тесту</name>
+                <name_ua>Вазон тестовый новий для тесту</name_ua>
                 <vendor>HP</vendor>
-                <article></article>
-                <description></description>
-                <description_ua></description_ua>
+                <article>12345654321</article>
+                <description>тестовий опис тестового товару щоб протестувати опис тестовго товару</description>
+                <description_ua>тестовий опис тестового товару щоб протестувати опис тестовго товару</description_ua>
                 <docket></docket>
                 <docket_ua></docket_ua>
-                <param name="EAN"></param>
+                <param name="EAN">123456789098</param>
                 <param name="Объем, л" paramid="245163" valueid=""></param>
                 <param name="Виробник">HP</param>
                 <param name="Размер" paramid="42899" valueid="77904">Большие</param>
@@ -46,13 +44,13 @@
             </offer>
             <offer id="2" available="false">
                 <price>73502.00</price>
-                <stock_quantity>1</stock_quantity>
+                <stock_quantity>4</stock_quantity>
                 <currencyId>UAH</currencyId>
                 <categoryId>245547</categoryId>
                 <picture>https://theactivephotographer.com/wp-content/uploads/2012/07/TAP_Ad_300x300.jpg</picture>
-                <name>Тест 1122 test</name>
-                <name_ua>Тест 21 test</name_ua>
-                <article>2</article>
+                <name>Тест 1122334455 test</name>
+                <name_ua>Тест 1122334455 test</name_ua>
+                <article>21345678912</article>
                 <vendor></vendor>
                 <description>
                     <![CDATA[<p>Тестовое описание тестового товара1324565</p>]]>
@@ -61,16 +59,17 @@
                     <![CDATA[<p>Тестовое описание тестового товара1324565</p>]]>
                 </description_ua>
                 <param name="Объем, л" paramid="245163" valueid="3925778">8</param>
+				<param name="EAN">1234567890989</param>
             </offer>
             <offer id="49453191" available="true">
                 <price>150.00</price>
-                <stock_quantity>1</stock_quantity>
+                <stock_quantity>3</stock_quantity>
                 <currencyId>UAH</currencyId>
                 <categoryId>245547</categoryId>
                 <picture>https://unci.org.ua/wp-content/uploads/2020/10/Polzovatelskye-razmery-525x350-px-5-1-300x200.jpeg</picture>
                 <name>Тестовый принтер товар 1 test</name>
                 <name_ua>Тестоий товар 1 test</name_ua>
-                <article>125</article>
+                <article>125215315</article>
                 <vendor>Без Бренда</vendor>
                 <description>
                     <![CDATA[<p>
@@ -84,6 +83,7 @@
                 <param name="Тип" paramid="42894" valueid="815636">Сенсор для растений</param>
                 <param name="Форма" paramid="119871" valueid="816161">Круг</param>
                 <param name="Цвет" paramid="26300" valueid="23052">Черный</param>
+				<param name="EAN">123456789012</param>
             </offer>
             <offer id="49453449" available="true">
                 <price>150.00</price>
@@ -847,5 +847,6 @@
     </shop>
 
 </yml_catalog>
+
 
 
