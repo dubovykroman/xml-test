@@ -21,7 +21,7 @@
                 <price>15000.00</price>
                 <price_promo>13999</price_promo>
                 <stock_quantity>25</stock_quantity>
-                <currencyId>USD</currencyId>
+                <currencyId>UAH</currencyId>
                 <categoryId>245547</categoryId>
                 <picture>https://images.ua.prom.st/AURpf9m9EQbxO_Zf25KPRU0nVsq8qSHN-lTzLiZyyYc=/1870112785_podves-iz-serebra.jpg</picture>
                 <name>Вазон тестовый новий для тесту</name>
@@ -108,7 +108,7 @@
             <offer id="54435338" available="true">
                 <price>35.00</price>
                 <stock_quantity>50</stock_quantity>
-                <currencyId>USD</currencyId>
+                <currencyId>UAH</currencyId>
                 <categoryId>4625274</categoryId>
 <!--                    <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54458182-5ea61046bcfa45de89709afc9e1166d5.jpg</picture>-->
 <!--                    <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54435338-fb5817bc18538f3af019c788ffe3b42d.jpg</picture>-->
@@ -209,7 +209,7 @@
             <offer id="54445230" available="true">
                 <price>43.00</price>
                 <stock_quantity>50</stock_quantity>
-                <currencyId>USD</currencyId>
+                <currencyId>UAH</currencyId>
                 <categoryId>4625319</categoryId>
                 <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54445230-4f402fc813f1b8e2201d3d9a8cd6ba33.jpg</picture>
                 <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54445230-c495fb37acdc71dd0aa6da532d09e577.jpg</picture>
@@ -232,7 +232,7 @@
             <offer id="54449751" available="true">
                 <price>200.00</price>
                 <stock_quantity>10</stock_quantity>
-                <currencyId>USD</currencyId>
+                <currencyId>UAH</currencyId>
                 <categoryId>4625337</categoryId>
                 <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54449751-fcb96f8c017d72a92e126dc186bdeebc.jpg</picture>
                 <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54449751-ece14df28df258c51b922502e2917ff7.jpg</picture>
@@ -284,7 +284,7 @@
             <offer id="54458182" available="true">
                 <price>47.00</price>
                 <stock_quantity>49</stock_quantity>
-                <currencyId>USD</currencyId>
+                <currencyId>UAH</currencyId>
                 <categoryId>4625274</categoryId>
                 <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54458182-5ea61046bcfa45de89709afc9e1166d5.jpg</picture>
                 <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54458182-d1cabd6e92e61533b535e5c90648f273.jpg</picture>
@@ -381,7 +381,7 @@
             <offer id="54534929" available="true">
                 <price>550.00</price>
                 <stock_quantity>50</stock_quantity>
-                <currencyId>USD</currencyId>
+                <currencyId>UAH</currencyId>
                 <categoryId>4625325</categoryId>
                 <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i545349291-812939737d36c4308e0eedb8646d8fbe.jpg</picture>
                 <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54534929-2498c719ff65ba56ed3b11ccdb48f492.jpg</picture>
