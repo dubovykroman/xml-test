@@ -940,6 +940,94 @@
                     </value>
                 </param>
             </offer>
+			<offer id="595399291" available="true">
+                <price>550.00</price>
+                <stock_quantity>50</stock_quantity>
+                <currencyId>UAH</currencyId>
+                <categoryId>4625325</categoryId>
+                <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i545349291-812939737d36c4308e0eedb8646d8fbe.jpg</picture>
+                <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54534929-2498c719ff65ba56ed3b11ccdb48f492.jpg</picture>
+                <picture>https://pricecreator.rozetka.com.ua/uploads/23280/item/original/i54534929-6b87ab903244a63af0b523b1ba337aa2.jpg</picture>
+                <name>Тестовый POS терминал TT-2315.Q1, J4125, 4GB, 64SSD, msr для тестирования переводов товаров</name>
+                <name_ua></name_ua>
+                <vendor>AiGather</vendor>
+                <series>TT</series>
+                <min_cart_quantity>1</min_cart_quantity>
+                <max_cart_quantity>50</max_cart_quantity>
+                <description>
+                    <![CDATA[<p>Сенсорный терминал TT-2315.Q1 выполнен в крепком пластиковом корпусе черного цвета. Высокопроизводительный процессор Intel Celeron J4125, 2,0 GHZ обеспечивает наилучшую производительность даже при использовании самых требовательных учетных программ 1С, iiiko, R-Keeper.</p><p>Моноблок в базовой комплектации поставляется с накопителем SSD на 64ГБ. Полностью совместим с операционными системами (Win7/8/10), Linux. Устройство поставляется с предварительно установленной операционной памятью на 4ГБ, с возможностью расширения до 8ГБ</p><p>В терминале предусмотрены порты USB 3.0 и 2.0, а также RS-232 для подключения весов, фискального регистратора. Spark TT-2315.Q1 оборудован встроенным считывателем магнитных карт с USB интерфейсом.</p><p>На правой боковой части выведены два порта USB 2.0, что позволяет оперативно подключать носитель информации и клавиатуру для установки ОС и настройки программного обеспечения. Питание терминала производится от внешнего БП.</p><p>Все разъемы подключения и материнская плата расположены в верхней части корпуса (голова устройства), что позволяет крепить монитор на стену, кнопка включения и индикация питания совмещены и расположены на креплении экрана терминала, что существенно минимизирует случайное отключение устройства.</p>]]>
+                </description>
+                <description_ua></description_ua>
+                <param name="Видеоадаптер" paramid="96569" valueid="509268">Встроенный</param>
+                <param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
+                <param name="Дисплей" paramid="96548" valueid="509842">Цветной</param>
+                <param name="Страна регистрации бренда" paramid="87790" valueid="428992">Китай</param>
+                <param name="Установка" paramid="96842" >
+                    <![CDATA[Настенная,Настольная]]>
+                </param>
+                <param name="Цвет" paramid="73713" valueid="316497">Черный</param>
+                <param name="Высота в упаковке (см)" paramid="72950">1</param>
+                <param name="Вес" paramid="73755">
+                    <value lang="ru">
+                        <![CDATA[7 кг]]>
+                    </value>
+                </param>
+                <param name="Доставка/Оплата" paramid="2019">
+                    <value lang="ru">
+                        <![CDATA[Самовывоз с отделения новой почты, адресная доставка, наложенный платёж, оплата на ФОП]]>
+                    </value>
+                </param>
+                <param name="Интерфейсы" paramid="96849">
+                    <value lang="ru">
+                        <![CDATA[2*RS-232, 6*USB(2 USB 3.0 та 4 USB 2.0) , LAN, VGA,HDMI]]>
+                    </value>
+                </param>
+                <param name="Комплектация" paramid="210568">
+                    <value lang="ru">
+                        <![CDATA[Моноблок - 1ш, блок питания-1 шт, силовой кабель - 1 шт, считыватель магнитных карт MSR-1 шт]]>
+                    </value>
+                </param>
+                <param name="Накопитель" paramid="96583">
+                    <value lang="ru">
+                        <![CDATA[SSD 64 ГБ]]>
+                    </value>
+                </param>
+                <param name="Оперативная память" paramid="96576">
+                    <value lang="ru">
+                        <![CDATA[4 ГБ]]>
+                    </value>
+                </param>
+                <param name="Операционные системы" paramid="96597">
+                    <value lang="ru">
+                        <![CDATA[Windows 7,8,10, Linux]]>
+                    </value>
+                </param>
+                <param name="Подключаемые устройства" paramid="96632">
+                    <value lang="ru">
+                        <![CDATA[Весы, сканеры штрих-кода, принтер чеков, фискальный решистратор, дисплей покупателя, считыватели магнитных карт, считыватели Rfid карт, прочее]]>
+                    </value>
+                </param>
+                <param name="Порты" paramid="96618">
+                    <value lang="ru">
+                        <![CDATA[2*RS-232, 6*USB(2 USB 3.0 та 4 USB 2.0) , LAN, VGA,HDMI]]>
+                    </value>
+                </param>
+                <param name="Процессор" paramid="96562">
+                    <value lang="ru">
+                        <![CDATA[Процессор Intel® Celeron® J4125]]>
+                    </value>
+                </param>
+                <param name="Угол наклона дисплея" paramid="96646">
+                    <value lang="ru">
+                        <![CDATA[0-90 градусов]]>
+                    </value>
+                </param>
+                <param name="Характеристики дисплея" paramid="96555">
+                    <value lang="ru">
+                        <![CDATA[Диагональ 15" с емкостной сенсорной панелью]]>
+                    </value>
+                </param>
+            </offer>
         </offers>
     </shop>
 
