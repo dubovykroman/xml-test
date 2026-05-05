@@ -861,7 +861,7 @@
                 <max_cart_quantity>20</max_cart_quantity>
                 <description></description>
                 <description_ua>
-                    <![CDATA[<p>А ще і опис теж змінимо разом з найменуванням товару щоб перевірити чи буде виконано авто переклад</p><ul><ul><ul></ul></ul></ul>]]>
+                    <![CDATA[<p>А ще і опис теж змінимо разом з найменуванням товару щоб перевірити чи буде виконано авто переклад</p><]]>
                 </description_ua>
                 <param name="Возможность подключения дополнительных устройств" paramid="96765" valueid="509716">Есть</param>
                 <param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
@@ -910,7 +910,7 @@
                 <max_cart_quantity>20</max_cart_quantity>
                 <description></description>
                 <description_ua>
-                    <![CDATA[<p>А зараз ми превіримо чи буде працювати автопереклад при зміні активного товару.
+                    <![CDATA[<p>А зараз ми превіримо чи буде працювати автопереклад при зміні активного товару.</p><]]>
 				</description_ua>
                 <param name="Возможность подключения дополнительных устройств" paramid="96765" valueid="509716">Есть</param>
                 <param name="Гарантия" paramid="20769" valueid="6169">12 месяцев</param>
