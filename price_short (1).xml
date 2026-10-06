@@ -17,7 +17,7 @@
             <category id="4625274">Сканери штрих-кодів</category>
         </categories>
         <offers>
-            <offer id="1" available="true">
+            <offer id="тестовий товар" available="true">
                 <price>15000.00</price>
                 <price_promo>13999</price_promo>
                 <stock_quantity>25</stock_quantity>
@@ -42,7 +42,7 @@
                 <param name="Форма" paramid="119871" valueid="816168">Овал</param>
                 <param name="Цвет" paramid="26300" valueid="23055">Белый</param>
             </offer>
-            <offer id="2" available="false">
+            <offer id="другий тестовий товар" available="false">
                 <price>73502.00</price>
                 <stock_quantity>4</stock_quantity>
                 <currencyId>UAH</currencyId>
@@ -61,7 +61,7 @@
                 <param name="Объем, л" paramid="245163" valueid="3925778">8</param>
 				<param name="EAN">1234567890989</param>
             </offer>
-            <offer id="49453191" available="true">
+            <offer id="третій тестовий товар" available="true">
                 <price>150.00</price>
                 <stock_quantity>3</stock_quantity>
                 <currencyId>UAH</currencyId>
@@ -85,7 +85,7 @@
                 <param name="Цвет" paramid="26300" valueid="23052">Черный</param>
 				<param name="EAN">123456789012</param>
             </offer>
-            <offer id="49453449" available="true">
+            <offer id="четвертий тестовий товар" available="true">
                 <price>150.00</price>
                 <stock_quantity>1</stock_quantity>
                 <currencyId>UAH</currencyId>
@@ -105,7 +105,7 @@
                 <param name="Форма" paramid="119871" valueid="816168">Овал</param>
                 <param name="Цвет" paramid="26300" valueid="23055">Белый</param>
             </offer>
-            <offer id="54435338" available="true">
+            <offer id="якосьтак" available="true">
                 <price>35.00</price>
                 <stock_quantity>50</stock_quantity>
                 <currencyId>UAH</currencyId>
@@ -206,7 +206,7 @@
                     </value>
                 </param>
             </offer>
-            <offer id="54445230" available="true">
+            <offer id="ТЕПЕРТАКПЕРЕВІРИМО" available="true">
                 <price>43.00</price>
                 <stock_quantity>50</stock_quantity>
                 <currencyId>UAH</currencyId>
@@ -281,7 +281,7 @@
                     </value>
                 </param>
             </offer>
-            <offer id="54458182" available="true">
+            <offer id="може_ще_так" available="true">
                 <price>47.00</price>
                 <stock_quantity>49</stock_quantity>
                 <currencyId>UAH</currencyId>
@@ -378,7 +378,7 @@
                     </value>
                 </param>
             </offer>
-            <offer id="54534929" available="true">
+            <offer id="чи-ост-так" available="true">
                 <price>550.00</price>
                 <stock_quantity>50</stock_quantity>
                 <currencyId>UAH</currencyId>
